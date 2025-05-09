@@ -1,0 +1,42 @@
+Successfully extracted headers for goodreads_book_works.json.gz:
+['books_count', 'reviews_count', 'original_publication_month', 'default_description_language_code', 'text_reviews_count', 'best_book_id', 'original_publication_year', 'original_title', 'rating_dist', 'default_chaptering_book_id', 'original_publication_day', 'original_language_id', 'ratings_count', 'media_type', 'ratings_sum', 'work_id']
+
+Successfully extracted headers for goodreads_book_authors.json.gz:
+['average_rating', 'author_id', 'text_reviews_count', 'name', 'ratings_count']
+
+Successfully extracted headers for goodreads_book_series.json.gz:
+['numbered', 'note', 'description', 'title', 'series_works_count', 'series_id', 'primary_work_count']
+
+Successfully extracted headers for goodreads_books.json.gz:
+['isbn', 'text_reviews_count', 'series', 'country_code', 'language_code', 'popular_shelves', 'asin', 'is_ebook', 'average_rating', 'kindle_asin', 'similar_books', 'description', 'format', 'link', 'authors', 'publisher', 'num_pages', 'publication_day', 'isbn13', 'publication_month', 'edition_information', 'publication_year', 'url', 'image_url', 'book_id', 'ratings_count', 'work_id', 'title', 'title_without_series']
+
+Successfully extracted headers for goodreads_book_genres_initial.json.gz:
+['book_id', 'genres']
+
+Successfully extracted headers for goodreads_books_mystery_thriller_crime.json.gz:
+['isbn', 'text_reviews_count', 'series', 'country_code', 'language_code', 'popular_shelves', 'asin', 'is_ebook', 'average_rating', 'kindle_asin', 'similar_books', 'description', 'format', 'link', 'authors', 'publisher', 'num_pages', 'publication_day', 'isbn13', 'publication_month', 'edition_information', 'publication_year', 'url', 'image_url', 'book_id', 'ratings_count', 'work_id', 'title', 'title_without_series']
+
+
+Successfully extracted headers for goodreads_interactions_mystery_thriller_crime.json.gz:
+['user_id', 'book_id', 'review_id', 'is_read', 'rating', 'review_text_incomplete', 'date_added', 'date_updated', 'read_at', 'started_at']
+
+Successfully extracted headers for goodreads_reviews_mystery_thriller_crime.json.gz:
+['user_id', 'book_id', 'review_id', 'rating', 'review_text', 'date_added', 'date_updated', 'read_at', 'started_at', 'n_votes', 'n_comments']
+
+Successfully extracted headers for book_id_map.csv:
+['book_id_csv', 'book_id']
+
+Successfully extracted headers for user_id_map.csv:
+['user_id_csv', 'user_id']
+
+Successfully extracted headers for goodreads_interactions.csv:
+['user_id', 'book_id', 'is_read', 'rating', 'is_reviewed']
+
+Successfully extracted headers for goodreads_reviews_dedup.json.gz:
+['user_id', 'book_id', 'review_id', 'rating', 'review_text', 'date_added', 'date_updated', 'read_at', 'started_at', 'n_votes', 'n_comments']
+
+Successfully extracted headers for goodreads_reviews_spoiler.json.gz:
+['user_id', 'timestamp', 'review_sentences', 'rating', 'has_spoiler', 'book_id', 'review_id']
+
+Successfully extracted headers for goodreads_reviews_spoiler_raw.json.gz:
+['user_id', 'book_id', 'review_id', 'rating', 'review_text', 'date_added', 'date_updated', 'read_at', 'started_at', 'n_votes', 'n_comments']

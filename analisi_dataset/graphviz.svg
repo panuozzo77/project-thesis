@@ -1,0 +1,814 @@
+<svg width="10011pt" height="1185pt" viewBox="0.00 0.00 10011.40 1185.44" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1181.44)">
+<title>GoodreadsDataset</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-1181.44 10007.4,-1181.44 10007.4,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>cluster_complete</title>
+<polygon fill="none" stroke="blue" points="8,-75.1 8,-637.1 8881.09,-637.1 8881.09,-75.1 8,-75.1"/>
+<text text-anchor="middle" x="4444.55" y="-620.5" font-family="Times,serif" font-size="14.00">Complete Datasets</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_bygenre</title>
+<polygon fill="none" stroke="green" points="5253.66,-676.1 5253.66,-1006.1 9995.4,-1006.1 9995.4,-676.1 5253.66,-676.1"/>
+<text text-anchor="middle" x="7624.53" y="-989.5" font-family="Times,serif" font-size="14.00">By Genre Datasets (Structure follows these templates)</text>
+</g>
+<!-- books_works -->
+<g id="node1" class="node">
+<title>books_works</title>
+<polygon fill="none" stroke="black" points="16,-332.1 16,-368.1 2109.92,-368.1 2109.92,-332.1 16,-332.1"/>
+<text text-anchor="middle" x="112.66" y="-346" font-family="Times,serif" font-size="14.00">goodreads_book_works.json.gz</text>
+<polyline fill="none" stroke="black" points="209.31,-332.3 209.31,-368.1"/>
+<text text-anchor="middle" x="253.09" y="-346" font-family="Times,serif" font-size="14.00">books_count</text>
+<polyline fill="none" stroke="black" points="296.86,-332.3 296.86,-368.1"/>
+<text text-anchor="middle" x="345.68" y="-346" font-family="Times,serif" font-size="14.00">reviews_count</text>
+<polyline fill="none" stroke="black" points="394.5,-332.3 394.5,-368.1"/>
+<text text-anchor="middle" x="480.66" y="-346" font-family="Times,serif" font-size="14.00">original_publication_month</text>
+<polyline fill="none" stroke="black" points="566.81,-332.3 566.81,-368.1"/>
+<text text-anchor="middle" x="674.33" y="-346" font-family="Times,serif" font-size="14.00">default_description_language_code</text>
+<polyline fill="none" stroke="black" points="781.85,-332.3 781.85,-368.1"/>
+<text text-anchor="middle" x="844.67" y="-346" font-family="Times,serif" font-size="14.00">text_reviews_count</text>
+<polyline fill="none" stroke="black" points="907.48,-332.3 907.48,-368.1"/>
+<text text-anchor="middle" x="953.21" y="-346" font-family="Times,serif" font-size="14.00">best_book_id</text>
+<polyline fill="none" stroke="black" points="998.93,-332.3 998.93,-368.1"/>
+<text text-anchor="middle" x="1079.24" y="-346" font-family="Times,serif" font-size="14.00">original_publication_year</text>
+<polyline fill="none" stroke="black" points="1159.55,-332.3 1159.55,-368.1"/>
+<text text-anchor="middle" x="1203.71" y="-346" font-family="Times,serif" font-size="14.00">original_title</text>
+<polyline fill="none" stroke="black" points="1247.86,-332.3 1247.86,-368.1"/>
+<text text-anchor="middle" x="1285.81" y="-346" font-family="Times,serif" font-size="14.00">rating_dist</text>
+<polyline fill="none" stroke="black" points="1323.75,-332.3 1323.75,-368.1"/>
+<text text-anchor="middle" x="1410.67" y="-346" font-family="Times,serif" font-size="14.00">default_chaptering_book_id</text>
+<polyline fill="none" stroke="black" points="1497.59,-332.3 1497.59,-368.1"/>
+<text text-anchor="middle" x="1575.96" y="-346" font-family="Times,serif" font-size="14.00">original_publication_day</text>
+<polyline fill="none" stroke="black" points="1654.33,-332.3 1654.33,-368.1"/>
+<text text-anchor="middle" x="1721.82" y="-346" font-family="Times,serif" font-size="14.00">original_language_id</text>
+<polyline fill="none" stroke="black" points="1789.3,-332.3 1789.3,-368.1"/>
+<text text-anchor="middle" x="1835.4" y="-346" font-family="Times,serif" font-size="14.00">ratings_count</text>
+<polyline fill="none" stroke="black" points="1881.51,-332.3 1881.51,-368.1"/>
+<text text-anchor="middle" x="1922.16" y="-346" font-family="Times,serif" font-size="14.00">media_type</text>
+<polyline fill="none" stroke="black" points="1962.82,-332.3 1962.82,-368.1"/>
+<text text-anchor="middle" x="2005.04" y="-346" font-family="Times,serif" font-size="14.00">ratings_sum</text>
+<polyline fill="none" stroke="black" points="2047.26,-332.3 2047.26,-368.1"/>
+<text text-anchor="middle" x="2078.59" y="-346" font-family="Times,serif" font-size="14.00">work_id</text>
+</g>
+<!-- books_complete -->
+<g id="node4" class="node">
+<title>books_complete</title>
+<polygon fill="none" stroke="black" points="2192.58,-260.1 2192.58,-296.1 4621.27,-296.1 4621.27,-260.1 2192.58,-260.1"/>
+<text text-anchor="middle" x="2271.35" y="-274" font-family="Times,serif" font-size="14.00">goodreads_books.json.gz</text>
+<polyline fill="none" stroke="black" points="2350.12,-260.3 2350.12,-296.1"/>
+<text text-anchor="middle" x="2369.79" y="-274" font-family="Times,serif" font-size="14.00">isbn</text>
+<polyline fill="none" stroke="black" points="2389.46,-260.3 2389.46,-296.1"/>
+<text text-anchor="middle" x="2452.28" y="-274" font-family="Times,serif" font-size="14.00">text_reviews_count</text>
+<polyline fill="none" stroke="black" points="2515.09,-260.3 2515.09,-296.1"/>
+<text text-anchor="middle" x="2539.03" y="-274" font-family="Times,serif" font-size="14.00">series</text>
+<polyline fill="none" stroke="black" points="2562.97,-260.3 2562.97,-296.1"/>
+<text text-anchor="middle" x="2609.07" y="-274" font-family="Times,serif" font-size="14.00">country_code</text>
+<polyline fill="none" stroke="black" points="2655.16,-260.3 2655.16,-296.1"/>
+<text text-anchor="middle" x="2705.14" y="-274" font-family="Times,serif" font-size="14.00">language_code</text>
+<polyline fill="none" stroke="black" points="2755.12,-260.3 2755.12,-296.1"/>
+<text text-anchor="middle" x="2808.61" y="-274" font-family="Times,serif" font-size="14.00">popular_shelves</text>
+<polyline fill="none" stroke="black" points="2862.1,-260.3 2862.1,-296.1"/>
+<text text-anchor="middle" x="2881.38" y="-274" font-family="Times,serif" font-size="14.00">asin</text>
+<polyline fill="none" stroke="black" points="2900.65,-260.3 2900.65,-296.1"/>
+<text text-anchor="middle" x="2933.93" y="-274" font-family="Times,serif" font-size="14.00">is_ebook</text>
+<polyline fill="none" stroke="black" points="2967.21,-260.3 2967.21,-296.1"/>
+<text text-anchor="middle" x="3016.79" y="-274" font-family="Times,serif" font-size="14.00">average_rating</text>
+<polyline fill="none" stroke="black" points="3066.38,-260.3 3066.38,-296.1"/>
+<text text-anchor="middle" x="3106.65" y="-274" font-family="Times,serif" font-size="14.00">kindle_asin</text>
+<polyline fill="none" stroke="black" points="3146.92,-260.3 3146.92,-296.1"/>
+<text text-anchor="middle" x="3194.59" y="-274" font-family="Times,serif" font-size="14.00">similar_books</text>
+<polyline fill="none" stroke="black" points="3242.25,-260.3 3242.25,-296.1"/>
+<text text-anchor="middle" x="3281.36" y="-274" font-family="Times,serif" font-size="14.00">description</text>
+<polyline fill="none" stroke="black" points="3320.46,-260.3 3320.46,-296.1"/>
+<text text-anchor="middle" x="3347.12" y="-274" font-family="Times,serif" font-size="14.00">format</text>
+<polyline fill="none" stroke="black" points="3373.78,-260.3 3373.78,-296.1"/>
+<text text-anchor="middle" x="3392.67" y="-274" font-family="Times,serif" font-size="14.00">link</text>
+<polyline fill="none" stroke="black" points="3411.56,-260.3 3411.56,-296.1"/>
+<text text-anchor="middle" x="3440.16" y="-274" font-family="Times,serif" font-size="14.00">authors</text>
+<polyline fill="none" stroke="black" points="3468.77,-260.3 3468.77,-296.1"/>
+<text text-anchor="middle" x="3502.82" y="-274" font-family="Times,serif" font-size="14.00">publisher</text>
+<polyline fill="none" stroke="black" points="3536.88,-260.3 3536.88,-296.1"/>
+<text text-anchor="middle" x="3576.76" y="-274" font-family="Times,serif" font-size="14.00">num_pages</text>
+<polyline fill="none" stroke="black" points="3616.64,-260.3 3616.64,-296.1"/>
+<text text-anchor="middle" x="3669.74" y="-274" font-family="Times,serif" font-size="14.00">publication_day</text>
+<polyline fill="none" stroke="black" points="3722.84,-260.3 3722.84,-296.1"/>
+<text text-anchor="middle" x="3749.51" y="-274" font-family="Times,serif" font-size="14.00">isbn13</text>
+<polyline fill="none" stroke="black" points="3776.18,-260.3 3776.18,-296.1"/>
+<text text-anchor="middle" x="3837.06" y="-274" font-family="Times,serif" font-size="14.00">publication_month</text>
+<polyline fill="none" stroke="black" points="3897.94,-260.3 3897.94,-296.1"/>
+<text text-anchor="middle" x="3961.93" y="-274" font-family="Times,serif" font-size="14.00">edition_information</text>
+<polyline fill="none" stroke="black" points="4025.92,-260.3 4025.92,-296.1"/>
+<text text-anchor="middle" x="4080.96" y="-274" font-family="Times,serif" font-size="14.00">publication_year</text>
+<polyline fill="none" stroke="black" points="4136,-260.3 4136,-296.1"/>
+<text text-anchor="middle" x="4151.78" y="-274" font-family="Times,serif" font-size="14.00">url</text>
+<polyline fill="none" stroke="black" points="4167.55,-260.3 4167.55,-296.1"/>
+<text text-anchor="middle" x="4203.93" y="-274" font-family="Times,serif" font-size="14.00">image_url</text>
+<polyline fill="none" stroke="black" points="4240.31,-260.3 4240.31,-296.1"/>
+<text text-anchor="middle" x="4271.26" y="-274" font-family="Times,serif" font-size="14.00">book_id</text>
+<polyline fill="none" stroke="black" points="4302.2,-260.3 4302.2,-296.1"/>
+<text text-anchor="middle" x="4348.3" y="-274" font-family="Times,serif" font-size="14.00">ratings_count</text>
+<polyline fill="none" stroke="black" points="4394.41,-260.3 4394.41,-296.1"/>
+<text text-anchor="middle" x="4425.74" y="-274" font-family="Times,serif" font-size="14.00">work_id</text>
+<polyline fill="none" stroke="black" points="4457.07,-260.3 4457.07,-296.1"/>
+<text text-anchor="middle" x="4475.96" y="-274" font-family="Times,serif" font-size="14.00">title</text>
+<polyline fill="none" stroke="black" points="4494.84,-260.3 4494.84,-296.1"/>
+<text text-anchor="middle" x="4558.06" y="-274" font-family="Times,serif" font-size="14.00">title_without_series</text>
+</g>
+<!-- books_works&#45;&gt;books_complete -->
+<g id="edge1" class="edge">
+<title>books_works:work_id-&gt;books_complete:work_id</title>
+<path fill="none" stroke="black" d="M2109.92,-350.2C2131.42,-350.2 2110.13,-317.38 2127.92,-305.3 2178.77,-270.77 4262.14,-354.31 4416.69,-303.58"/>
+<polygon fill="black" stroke="black" points="4418.41,-306.65 4424.51,-297.98 4414.34,-300.96 4418.41,-306.65"/>
+<text text-anchor="middle" x="2151.25" y="-309.5" font-family="Times,serif" font-size="14.00">work_id</text>
+</g>
+<!-- books_works&#45;&gt;books_complete -->
+<g id="edge31" class="edge">
+<title>books_works:work_id-&gt;books_complete:work_id</title>
+<path fill="none" stroke="black" d="M2109.92,-350.2C2363.41,-350.2 4363.83,-548.34 4424.34,-308.47"/>
+<polygon fill="black" stroke="black" points="4427.8,-308.96 4425.55,-298.6 4420.86,-308.1 4427.8,-308.96"/>
+<text text-anchor="middle" x="2151.25" y="-355.34" font-family="Times,serif" font-size="14.00">work_id</text>
+</g>
+<!-- books_bygenre_tmpl -->
+<g id="node12" class="node">
+<title>books_bygenre_tmpl</title>
+<polygon fill="none" stroke="black" points="5261.66,-899.1 5261.66,-935.1 7770.03,-935.1 7770.03,-899.1 5261.66,-899.1"/>
+<text text-anchor="middle" x="5380.27" y="-913" font-family="Times,serif" font-size="14.00">goodreads_books_*.json.gz (Template)</text>
+<polyline fill="none" stroke="black" points="5498.88,-899.3 5498.88,-935.1"/>
+<text text-anchor="middle" x="5518.55" y="-913" font-family="Times,serif" font-size="14.00">isbn</text>
+<polyline fill="none" stroke="black" points="5538.22,-899.3 5538.22,-935.1"/>
+<text text-anchor="middle" x="5601.04" y="-913" font-family="Times,serif" font-size="14.00">text_reviews_count</text>
+<polyline fill="none" stroke="black" points="5663.86,-899.3 5663.86,-935.1"/>
+<text text-anchor="middle" x="5687.8" y="-913" font-family="Times,serif" font-size="14.00">series</text>
+<polyline fill="none" stroke="black" points="5711.73,-899.3 5711.73,-935.1"/>
+<text text-anchor="middle" x="5757.83" y="-913" font-family="Times,serif" font-size="14.00">country_code</text>
+<polyline fill="none" stroke="black" points="5803.93,-899.3 5803.93,-935.1"/>
+<text text-anchor="middle" x="5853.91" y="-913" font-family="Times,serif" font-size="14.00">language_code</text>
+<polyline fill="none" stroke="black" points="5903.89,-899.3 5903.89,-935.1"/>
+<text text-anchor="middle" x="5957.38" y="-913" font-family="Times,serif" font-size="14.00">popular_shelves</text>
+<polyline fill="none" stroke="black" points="6010.87,-899.3 6010.87,-935.1"/>
+<text text-anchor="middle" x="6030.14" y="-913" font-family="Times,serif" font-size="14.00">asin</text>
+<polyline fill="none" stroke="black" points="6049.42,-899.3 6049.42,-935.1"/>
+<text text-anchor="middle" x="6082.69" y="-913" font-family="Times,serif" font-size="14.00">is_ebook</text>
+<polyline fill="none" stroke="black" points="6115.97,-899.3 6115.97,-935.1"/>
+<text text-anchor="middle" x="6165.56" y="-913" font-family="Times,serif" font-size="14.00">average_rating</text>
+<polyline fill="none" stroke="black" points="6215.14,-899.3 6215.14,-935.1"/>
+<text text-anchor="middle" x="6255.41" y="-913" font-family="Times,serif" font-size="14.00">kindle_asin</text>
+<polyline fill="none" stroke="black" points="6295.69,-899.3 6295.69,-935.1"/>
+<text text-anchor="middle" x="6343.35" y="-913" font-family="Times,serif" font-size="14.00">similar_books</text>
+<polyline fill="none" stroke="black" points="6391.02,-899.3 6391.02,-935.1"/>
+<text text-anchor="middle" x="6430.12" y="-913" font-family="Times,serif" font-size="14.00">description</text>
+<polyline fill="none" stroke="black" points="6469.22,-899.3 6469.22,-935.1"/>
+<text text-anchor="middle" x="6495.88" y="-913" font-family="Times,serif" font-size="14.00">format</text>
+<polyline fill="none" stroke="black" points="6522.54,-899.3 6522.54,-935.1"/>
+<text text-anchor="middle" x="6541.43" y="-913" font-family="Times,serif" font-size="14.00">link</text>
+<polyline fill="none" stroke="black" points="6560.32,-899.3 6560.32,-935.1"/>
+<text text-anchor="middle" x="6588.93" y="-913" font-family="Times,serif" font-size="14.00">authors</text>
+<polyline fill="none" stroke="black" points="6617.54,-899.3 6617.54,-935.1"/>
+<text text-anchor="middle" x="6651.59" y="-913" font-family="Times,serif" font-size="14.00">publisher</text>
+<polyline fill="none" stroke="black" points="6685.64,-899.3 6685.64,-935.1"/>
+<text text-anchor="middle" x="6725.52" y="-913" font-family="Times,serif" font-size="14.00">num_pages</text>
+<polyline fill="none" stroke="black" points="6765.4,-899.3 6765.4,-935.1"/>
+<text text-anchor="middle" x="6818.5" y="-913" font-family="Times,serif" font-size="14.00">publication_day</text>
+<polyline fill="none" stroke="black" points="6871.6,-899.3 6871.6,-935.1"/>
+<text text-anchor="middle" x="6898.27" y="-913" font-family="Times,serif" font-size="14.00">isbn13</text>
+<polyline fill="none" stroke="black" points="6924.94,-899.3 6924.94,-935.1"/>
+<text text-anchor="middle" x="6985.83" y="-913" font-family="Times,serif" font-size="14.00">publication_month</text>
+<polyline fill="none" stroke="black" points="7046.71,-899.3 7046.71,-935.1"/>
+<text text-anchor="middle" x="7110.7" y="-913" font-family="Times,serif" font-size="14.00">edition_information</text>
+<polyline fill="none" stroke="black" points="7174.69,-899.3 7174.69,-935.1"/>
+<text text-anchor="middle" x="7229.73" y="-913" font-family="Times,serif" font-size="14.00">publication_year</text>
+<polyline fill="none" stroke="black" points="7284.76,-899.3 7284.76,-935.1"/>
+<text text-anchor="middle" x="7300.54" y="-913" font-family="Times,serif" font-size="14.00">url</text>
+<polyline fill="none" stroke="black" points="7316.32,-899.3 7316.32,-935.1"/>
+<text text-anchor="middle" x="7352.69" y="-913" font-family="Times,serif" font-size="14.00">image_url</text>
+<polyline fill="none" stroke="black" points="7389.07,-899.3 7389.07,-935.1"/>
+<text text-anchor="middle" x="7420.02" y="-913" font-family="Times,serif" font-size="14.00">book_id</text>
+<polyline fill="none" stroke="black" points="7450.96,-899.3 7450.96,-935.1"/>
+<text text-anchor="middle" x="7497.07" y="-913" font-family="Times,serif" font-size="14.00">ratings_count</text>
+<polyline fill="none" stroke="black" points="7543.17,-899.3 7543.17,-935.1"/>
+<text text-anchor="middle" x="7574.5" y="-913" font-family="Times,serif" font-size="14.00">work_id</text>
+<polyline fill="none" stroke="black" points="7605.83,-899.3 7605.83,-935.1"/>
+<text text-anchor="middle" x="7624.72" y="-913" font-family="Times,serif" font-size="14.00">title</text>
+<polyline fill="none" stroke="black" points="7643.61,-899.3 7643.61,-935.1"/>
+<text text-anchor="middle" x="7706.82" y="-913" font-family="Times,serif" font-size="14.00">title_without_series</text>
+</g>
+<!-- books_works&#45;&gt;books_bygenre_tmpl -->
+<g id="edge2" class="edge">
+<title>books_works:work_id-&gt;books_bygenre_tmpl:work_id</title>
+<path fill="none" stroke="black" d="M2078.59,-369.1C2078.59,-409.78 2102.16,-415.17 2109.92,-455.1 2115.46,-483.59 2107.42,-956.56 2127.92,-977.1 2522.45,-1372.33 4080.92,-1057.99 4639.27,-1068.1 4915.14,-1073.1 4978.79,-1003.08 5253.66,-979.1 5284.49,-976.41 7394.84,-968.97 7563.79,-939.86"/>
+<polygon fill="black" stroke="black" points="7564.79,-943.21 7573.07,-936.6 7562.48,-936.61 7564.79,-943.21"/>
+<text text-anchor="middle" x="4662.6" y="-1072.55" font-family="Times,serif" font-size="14.00">work_id</text>
+</g>
+<!-- books_works&#45;&gt;books_bygenre_tmpl -->
+<g id="edge32" class="edge">
+<title>books_works:work_id-&gt;books_bygenre_tmpl:work_id</title>
+<path fill="none" stroke="black" d="M2078.59,-369.1C2078.59,-396.53 2170.21,-572.23 2192.58,-588.1 3112.41,-1240.37 3579.18,-868.67 4703.93,-949.1 4914.88,-964.18 4968.29,-949.67 5179.77,-949.1 5243.89,-948.93 7409.21,-998.81 7565.6,-942.85"/>
+<polygon fill="black" stroke="black" points="7567.44,-945.85 7573.3,-937.02 7563.21,-940.27 7567.44,-945.85"/>
+<text text-anchor="middle" x="4662.6" y="-951.65" font-family="Times,serif" font-size="14.00">work_id</text>
+</g>
+<!-- books_authors -->
+<g id="node2" class="node">
+<title>books_authors</title>
+<polygon fill="none" stroke="black" points="746.31,-464.1 746.31,-500.1 1379.61,-500.1 1379.61,-464.1 746.31,-464.1"/>
+<text text-anchor="middle" x="846.47" y="-478" font-family="Times,serif" font-size="14.00">goodreads_book_authors.json.gz</text>
+<polyline fill="none" stroke="black" points="946.62,-464.3 946.62,-500.1"/>
+<text text-anchor="middle" x="996.21" y="-478" font-family="Times,serif" font-size="14.00">average_rating</text>
+<polyline fill="none" stroke="black" points="1045.79,-464.3 1045.79,-500.1"/>
+<text text-anchor="middle" x="1080.62" y="-478" font-family="Times,serif" font-size="14.00">author_id</text>
+<polyline fill="none" stroke="black" points="1115.45,-464.3 1115.45,-500.1"/>
+<text text-anchor="middle" x="1178.26" y="-478" font-family="Times,serif" font-size="14.00">text_reviews_count</text>
+<polyline fill="none" stroke="black" points="1241.08,-464.3 1241.08,-500.1"/>
+<text text-anchor="middle" x="1264.24" y="-478" font-family="Times,serif" font-size="14.00">name</text>
+<polyline fill="none" stroke="black" points="1287.4,-464.3 1287.4,-500.1"/>
+<text text-anchor="middle" x="1333.5" y="-478" font-family="Times,serif" font-size="14.00">ratings_count</text>
+</g>
+<!-- books_series -->
+<g id="node3" class="node">
+<title>books_series</title>
+<polygon fill="none" stroke="black" points="689.87,-558.1 689.87,-594.1 1436.05,-594.1 1436.05,-558.1 689.87,-558.1"/>
+<text text-anchor="middle" x="785.35" y="-572" font-family="Times,serif" font-size="14.00">goodreads_book_series.json.gz</text>
+<polyline fill="none" stroke="black" points="880.83,-558.3 880.83,-594.1"/>
+<text text-anchor="middle" x="916.82" y="-572" font-family="Times,serif" font-size="14.00">numbered</text>
+<polyline fill="none" stroke="black" points="952.81,-558.3 952.81,-594.1"/>
+<text text-anchor="middle" x="972.86" y="-572" font-family="Times,serif" font-size="14.00">note</text>
+<polyline fill="none" stroke="black" points="992.92,-558.3 992.92,-594.1"/>
+<text text-anchor="middle" x="1032.02" y="-572" font-family="Times,serif" font-size="14.00">description</text>
+<polyline fill="none" stroke="black" points="1071.12,-558.3 1071.12,-594.1"/>
+<text text-anchor="middle" x="1090.01" y="-572" font-family="Times,serif" font-size="14.00">title</text>
+<polyline fill="none" stroke="black" points="1108.9,-558.3 1108.9,-594.1"/>
+<text text-anchor="middle" x="1172.5" y="-572" font-family="Times,serif" font-size="14.00">series_works_count</text>
+<polyline fill="none" stroke="black" points="1236.1,-558.3 1236.1,-594.1"/>
+<text text-anchor="middle" x="1268.98" y="-572" font-family="Times,serif" font-size="14.00">series_id</text>
+<polyline fill="none" stroke="black" points="1301.86,-558.3 1301.86,-594.1"/>
+<text text-anchor="middle" x="1368.96" y="-572" font-family="Times,serif" font-size="14.00">primary_work_count</text>
+</g>
+<!-- books_genres_initial -->
+<g id="node5" class="node">
+<title>books_genres_initial</title>
+<polygon fill="none" stroke="black" points="4766.99,-124.1 4766.99,-160.1 5116.71,-160.1 5116.71,-124.1 4766.99,-124.1"/>
+<text text-anchor="middle" x="4884.64" y="-138" font-family="Times,serif" font-size="14.00">goodreads_book_genres_initial.json.gz</text>
+<polyline fill="none" stroke="black" points="5002.28,-124.3 5002.28,-160.1"/>
+<text text-anchor="middle" x="5033.23" y="-138" font-family="Times,serif" font-size="14.00">book_id</text>
+<polyline fill="none" stroke="black" points="5064.17,-124.3 5064.17,-160.1"/>
+<text text-anchor="middle" x="5090.44" y="-138" font-family="Times,serif" font-size="14.00">genres</text>
+</g>
+<!-- books_complete&#45;&gt;books_genres_initial -->
+<g id="edge3" class="edge">
+<title>books_complete:book_id-&gt;books_genres_initial:book_id</title>
+<path fill="none" stroke="black" d="M4271.26,-259.3C4271.26,-91.02 4472.42,-192.17 4639.27,-170.3 4649.02,-169.02 4959.25,-171.45 5022.16,-164.02"/>
+<polygon fill="black" stroke="black" points="5022.99,-167.42 5031.76,-161.49 5021.2,-160.65 5022.99,-167.42"/>
+<text text-anchor="middle" x="4662.6" y="-174.5" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- books_complete&#45;&gt;books_genres_initial -->
+<g id="edge33" class="edge">
+<title>books_complete:book_id-&gt;books_genres_initial:book_id</title>
+<path fill="none" stroke="black" d="M4271.26,-259.3C4271.26,-30.95 4539.75,-146.76 4766.99,-124.3 4793.15,-121.71 4983.07,-99.57 5025.04,-115.44"/>
+<polygon fill="black" stroke="black" points="5022.5,-117.85 5032.14,-122.25 5027.35,-112.8 5022.5,-117.85"/>
+<text text-anchor="middle" x="4662.6" y="-131.25" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- book_id_map -->
+<g id="node6" class="node">
+<title>book_id_map</title>
+<polygon fill="none" stroke="black" points="4809.55,-179.1 4809.55,-215.1 5074.15,-215.1 5074.15,-179.1 4809.55,-179.1"/>
+<text text-anchor="middle" x="4867.13" y="-193" font-family="Times,serif" font-size="14.00">book_id_map.csv</text>
+<polyline fill="none" stroke="black" points="4924.71,-179.3 4924.71,-215.1"/>
+<text text-anchor="middle" x="4968.48" y="-193" font-family="Times,serif" font-size="14.00">book_id_csv</text>
+<polyline fill="none" stroke="black" points="5012.26,-179.3 5012.26,-215.1"/>
+<text text-anchor="middle" x="5043.2" y="-193" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- books_complete&#45;&gt;book_id_map -->
+<g id="edge4" class="edge">
+<title>books_complete:book_id-&gt;book_id_map:book_id</title>
+<path fill="none" stroke="black" d="M4271.26,-259.3C4271.26,-66.56 4511.48,-240.56 4703.93,-230.1 4712.32,-229.64 4974.88,-226.38 5032.22,-219.01"/>
+<polygon fill="black" stroke="black" points="5032.97,-222.43 5041.74,-216.49 5031.18,-215.66 5032.97,-222.43"/>
+<text text-anchor="middle" x="4662.6" y="-234.75" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- books_complete&#45;&gt;book_id_map -->
+<g id="edge34" class="edge">
+<title>books_complete:book_id-&gt;book_id_map:book_id</title>
+<path fill="none" stroke="black" d="M4271.26,-259.3C4271.26,-19.25 4569.64,-207.03 4809.55,-215.1 4832.31,-215.87 4994.84,-236.02 5034.5,-223.46"/>
+<polygon fill="black" stroke="black" points="5036.67,-226.21 5042.05,-217.08 5032.15,-220.86 5036.67,-226.21"/>
+<text text-anchor="middle" x="4662.6" y="-200.48" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- interactions_complete -->
+<g id="node8" class="node">
+<title>interactions_complete</title>
+<polygon fill="none" stroke="black" points="4703.93,-547.1 4703.93,-583.1 5179.77,-583.1 5179.77,-547.1 4703.93,-547.1"/>
+<text text-anchor="middle" x="4787.94" y="-561" font-family="Times,serif" font-size="14.00">goodreads_interactions.csv</text>
+<polyline fill="none" stroke="black" points="4871.94,-547.3 4871.94,-583.1"/>
+<text text-anchor="middle" x="4900.55" y="-561" font-family="Times,serif" font-size="14.00">user_id</text>
+<polyline fill="none" stroke="black" points="4929.16,-547.3 4929.16,-583.1"/>
+<text text-anchor="middle" x="4960.1" y="-561" font-family="Times,serif" font-size="14.00">book_id</text>
+<polyline fill="none" stroke="black" points="4991.05,-547.3 4991.05,-583.1"/>
+<text text-anchor="middle" x="5019.26" y="-561" font-family="Times,serif" font-size="14.00">is_read</text>
+<polyline fill="none" stroke="black" points="5047.47,-547.3 5047.47,-583.1"/>
+<text text-anchor="middle" x="5071.8" y="-561" font-family="Times,serif" font-size="14.00">rating</text>
+<polyline fill="none" stroke="black" points="5096.13,-547.3 5096.13,-583.1"/>
+<text text-anchor="middle" x="5137.95" y="-561" font-family="Times,serif" font-size="14.00">is_reviewed</text>
+</g>
+<!-- books_complete&#45;&gt;interactions_complete -->
+<g id="edge6" class="edge">
+<title>books_complete:book_id-&gt;interactions_complete:book_id</title>
+<path fill="none" stroke="black" d="M4271.26,-297.1C4271.26,-494.2 4550.84,-310.78 4685.93,-454.3 4704.37,-473.89 4683.37,-494.75 4703.93,-512.1 4744.57,-546.39 4929.52,-497.28 4956.75,-535.37"/>
+<polygon fill="black" stroke="black" points="4953.38,-536.32 4959.66,-544.85 4960.07,-534.27 4953.38,-536.32"/>
+<text text-anchor="middle" x="4662.6" y="-458.5" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- books_complete&#45;&gt;interactions_complete -->
+<g id="edge36" class="edge">
+<title>books_complete:book_id-&gt;interactions_complete:book_id</title>
+<path fill="none" stroke="black" d="M4271.26,-297.1C4271.26,-511.83 4498.6,-449.27 4703.93,-512.1 4754.88,-527.69 4931.78,-494.36 4957.08,-535.32"/>
+<polygon fill="black" stroke="black" points="4953.67,-536.13 4959.7,-544.84 4960.42,-534.27 4953.67,-536.13"/>
+<text text-anchor="middle" x="4662.6" y="-509.34" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- reviews_dedup -->
+<g id="node9" class="node">
+<title>reviews_dedup</title>
+<polygon fill="none" stroke="black" points="6027.97,-430.1 6027.97,-466.1 7003.72,-466.1 7003.72,-430.1 6027.97,-430.1"/>
+<text text-anchor="middle" x="6132.39" y="-444" font-family="Times,serif" font-size="14.00">goodreads_reviews_dedup.json.gz</text>
+<polyline fill="none" stroke="black" points="6236.81,-430.3 6236.81,-466.1"/>
+<text text-anchor="middle" x="6265.42" y="-444" font-family="Times,serif" font-size="14.00">user_id</text>
+<polyline fill="none" stroke="black" points="6294.03,-430.3 6294.03,-466.1"/>
+<text text-anchor="middle" x="6324.97" y="-444" font-family="Times,serif" font-size="14.00">book_id</text>
+<polyline fill="none" stroke="black" points="6355.92,-430.3 6355.92,-466.1"/>
+<text text-anchor="middle" x="6391.9" y="-444" font-family="Times,serif" font-size="14.00">review_id</text>
+<polyline fill="none" stroke="black" points="6427.89,-430.3 6427.89,-466.1"/>
+<text text-anchor="middle" x="6452.22" y="-444" font-family="Times,serif" font-size="14.00">rating</text>
+<polyline fill="none" stroke="black" points="6476.55,-430.3 6476.55,-466.1"/>
+<text text-anchor="middle" x="6517.59" y="-444" font-family="Times,serif" font-size="14.00">review_text</text>
+<polyline fill="none" stroke="black" points="6558.63,-430.3 6558.63,-466.1"/>
+<text text-anchor="middle" x="6598.51" y="-444" font-family="Times,serif" font-size="14.00">date_added</text>
+<polyline fill="none" stroke="black" points="6638.38,-430.3 6638.38,-466.1"/>
+<text text-anchor="middle" x="6683.7" y="-444" font-family="Times,serif" font-size="14.00">date_updated</text>
+<polyline fill="none" stroke="black" points="6729.01,-430.3 6729.01,-466.1"/>
+<text text-anchor="middle" x="6757.61" y="-444" font-family="Times,serif" font-size="14.00">read_at</text>
+<polyline fill="none" stroke="black" points="6786.21,-430.3 6786.21,-466.1"/>
+<text text-anchor="middle" x="6821.42" y="-444" font-family="Times,serif" font-size="14.00">started_at</text>
+<polyline fill="none" stroke="black" points="6856.63,-430.3 6856.63,-466.1"/>
+<text text-anchor="middle" x="6886.4" y="-444" font-family="Times,serif" font-size="14.00">n_votes</text>
+<polyline fill="none" stroke="black" points="6916.18,-430.3 6916.18,-466.1"/>
+<text text-anchor="middle" x="6959.95" y="-444" font-family="Times,serif" font-size="14.00">n_comments</text>
+</g>
+<!-- books_complete&#45;&gt;reviews_dedup -->
+<g id="edge7" class="edge">
+<title>books_complete:book_id-&gt;reviews_dedup:book_id</title>
+<path fill="none" stroke="black" d="M4271.26,-297.1C4271.26,-347.65 5129.32,-343.11 5179.77,-346.3 5303.24,-354.12 6264.16,-304.85 6322.22,-418.2"/>
+<polygon fill="black" stroke="black" points="6318.81,-418.96 6324.61,-427.83 6325.6,-417.28 6318.81,-418.96"/>
+<text text-anchor="middle" x="4941.85" y="-350.5" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- books_complete&#45;&gt;reviews_dedup -->
+<g id="edge37" class="edge">
+<title>books_complete:book_id-&gt;reviews_dedup:book_id</title>
+<path fill="none" stroke="black" d="M4271.26,-297.1C4271.26,-521.86 6255.37,-211.59 6323.19,-418.06"/>
+<polygon fill="black" stroke="black" points="6319.71,-418.48 6324.73,-427.81 6326.63,-417.38 6319.71,-418.48"/>
+<text text-anchor="middle" x="4941.85" y="-387.48" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- reviews_spoiler -->
+<g id="node10" class="node">
+<title>reviews_spoiler</title>
+<polygon fill="none" stroke="black" points="8008.63,-415.1 8008.63,-451.1 8729.92,-451.1 8729.92,-415.1 8008.63,-415.1"/>
+<text text-anchor="middle" x="8115" y="-429" font-family="Times,serif" font-size="14.00">goodreads_reviews_spoiler.json.gz</text>
+<polyline fill="none" stroke="black" points="8221.36,-415.3 8221.36,-451.1"/>
+<text text-anchor="middle" x="8249.97" y="-429" font-family="Times,serif" font-size="14.00">user_id</text>
+<polyline fill="none" stroke="black" points="8278.58,-415.3 8278.58,-451.1"/>
+<text text-anchor="middle" x="8315.74" y="-429" font-family="Times,serif" font-size="14.00">timestamp</text>
+<polyline fill="none" stroke="black" points="8352.9,-415.3 8352.9,-451.1"/>
+<text text-anchor="middle" x="8410.27" y="-429" font-family="Times,serif" font-size="14.00">review_sentences</text>
+<polyline fill="none" stroke="black" points="8467.63,-415.3 8467.63,-451.1"/>
+<text text-anchor="middle" x="8491.96" y="-429" font-family="Times,serif" font-size="14.00">rating</text>
+<polyline fill="none" stroke="black" points="8516.29,-415.3 8516.29,-451.1"/>
+<text text-anchor="middle" x="8556.17" y="-429" font-family="Times,serif" font-size="14.00">has_spoiler</text>
+<polyline fill="none" stroke="black" points="8596.05,-415.3 8596.05,-451.1"/>
+<text text-anchor="middle" x="8627" y="-429" font-family="Times,serif" font-size="14.00">book_id</text>
+<polyline fill="none" stroke="black" points="8657.94,-415.3 8657.94,-451.1"/>
+<text text-anchor="middle" x="8693.93" y="-429" font-family="Times,serif" font-size="14.00">review_id</text>
+</g>
+<!-- books_complete&#45;&gt;reviews_spoiler -->
+<g id="edge8" class="edge">
+<title>books_complete:book_id-&gt;reviews_spoiler:book_id</title>
+<path fill="none" stroke="black" d="M4271.26,-259.3C4271.26,-253.54 4680.18,-251.32 4685.93,-251.1 4693.94,-250.8 4695.93,-250.53 4703.93,-250.1 4756.8,-247.24 5135.28,-253.8 5179.77,-225.1 5194.4,-215.66 5182.9,-199.35 5197.77,-190.3 5215.19,-179.7 5223.27,-189.84 5243.66,-190.3 6400.25,-216.26 6691.87,-202.57 7844.01,-307.1 8190.06,-338.5 8617.7,-68.95 8626.85,-403.2"/>
+<polygon fill="black" stroke="black" points="8623.34,-402.84 8626.98,-412.79 8630.34,-402.74 8623.34,-402.84"/>
+<text text-anchor="middle" x="5220.72" y="-194.5" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- books_complete&#45;&gt;reviews_spoiler -->
+<g id="edge38" class="edge">
+<title>books_complete:book_id-&gt;reviews_spoiler:book_id</title>
+<path fill="none" stroke="black" d="M4271.26,-259.3C4271.26,-230.7 4929.41,-279.5 5197.77,-287.1 6373.47,-320.42 6670.62,-233.31 7844.01,-314.1 8190.26,-337.94 8617.71,-69.34 8626.85,-403.21"/>
+<polygon fill="black" stroke="black" points="8623.34,-402.84 8626.98,-412.79 8630.34,-402.74 8623.34,-402.84"/>
+<text text-anchor="middle" x="5220.72" y="-292.33" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- reviews_spoiler_raw -->
+<g id="node11" class="node">
+<title>reviews_spoiler_raw</title>
+<polygon fill="none" stroke="black" points="7865.46,-169.1 7865.46,-205.1 8873.09,-205.1 8873.09,-169.1 7865.46,-169.1"/>
+<text text-anchor="middle" x="7985.82" y="-183" font-family="Times,serif" font-size="14.00">goodreads_reviews_spoiler_raw.json.gz</text>
+<polyline fill="none" stroke="black" points="8106.18,-169.3 8106.18,-205.1"/>
+<text text-anchor="middle" x="8134.79" y="-183" font-family="Times,serif" font-size="14.00">user_id</text>
+<polyline fill="none" stroke="black" points="8163.39,-169.3 8163.39,-205.1"/>
+<text text-anchor="middle" x="8194.34" y="-183" font-family="Times,serif" font-size="14.00">book_id</text>
+<polyline fill="none" stroke="black" points="8225.28,-169.3 8225.28,-205.1"/>
+<text text-anchor="middle" x="8261.27" y="-183" font-family="Times,serif" font-size="14.00">review_id</text>
+<polyline fill="none" stroke="black" points="8297.26,-169.3 8297.26,-205.1"/>
+<text text-anchor="middle" x="8321.59" y="-183" font-family="Times,serif" font-size="14.00">rating</text>
+<polyline fill="none" stroke="black" points="8345.92,-169.3 8345.92,-205.1"/>
+<text text-anchor="middle" x="8386.96" y="-183" font-family="Times,serif" font-size="14.00">review_text</text>
+<polyline fill="none" stroke="black" points="8428,-169.3 8428,-205.1"/>
+<text text-anchor="middle" x="8467.87" y="-183" font-family="Times,serif" font-size="14.00">date_added</text>
+<polyline fill="none" stroke="black" points="8507.75,-169.3 8507.75,-205.1"/>
+<text text-anchor="middle" x="8553.06" y="-183" font-family="Times,serif" font-size="14.00">date_updated</text>
+<polyline fill="none" stroke="black" points="8598.38,-169.3 8598.38,-205.1"/>
+<text text-anchor="middle" x="8626.98" y="-183" font-family="Times,serif" font-size="14.00">read_at</text>
+<polyline fill="none" stroke="black" points="8655.58,-169.3 8655.58,-205.1"/>
+<text text-anchor="middle" x="8690.79" y="-183" font-family="Times,serif" font-size="14.00">started_at</text>
+<polyline fill="none" stroke="black" points="8726,-169.3 8726,-205.1"/>
+<text text-anchor="middle" x="8755.77" y="-183" font-family="Times,serif" font-size="14.00">n_votes</text>
+<polyline fill="none" stroke="black" points="8785.55,-169.3 8785.55,-205.1"/>
+<text text-anchor="middle" x="8829.32" y="-183" font-family="Times,serif" font-size="14.00">n_comments</text>
+</g>
+<!-- books_complete&#45;&gt;reviews_spoiler_raw -->
+<g id="edge9" class="edge">
+<title>books_complete:book_id-&gt;reviews_spoiler_raw:book_id</title>
+<path fill="none" stroke="black" d="M4271.26,-259.3C4271.26,54.94 5173,-99.03 5179.77,-99.1 5511.03,-102.74 8134.45,160.72 8193.33,-157.24"/>
+<polygon fill="black" stroke="black" points="8189.81,-157.15 8194.2,-166.79 8196.78,-156.52 8189.81,-157.15"/>
+<text text-anchor="middle" x="5220.72" y="-103.24" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- books_complete&#45;&gt;reviews_spoiler_raw -->
+<g id="edge39" class="edge">
+<title>books_complete:book_id-&gt;reviews_spoiler_raw:book_id</title>
+<path fill="none" stroke="black" d="M4271.26,-259.3C4271.26,1.14 5160.33,-112.97 5179.77,-115.1 5187.92,-116 5189.63,-118.14 5197.77,-119.1 5359.57,-138.21 8073.92,-7.61 8190.47,-157.98"/>
+<polygon fill="black" stroke="black" points="8187.02,-158.75 8193.81,-166.88 8193.58,-156.29 8187.02,-158.75"/>
+<text text-anchor="middle" x="5220.72" y="-125.11" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- books_complete&#45;&gt;books_bygenre_tmpl -->
+<g id="edge5" class="edge">
+<title>books_complete:book_id-&gt;books_bygenre_tmpl:book_id</title>
+<path fill="none" stroke="black" d="M4271.26,-297.1C4271.26,-484.72 4528.9,-369.8 4621.27,-533.1 4640.22,-566.61 4612.82,-851.13 4639.27,-879.1 4643.58,-883.66 4773.96,-913.6 5261.66,-935.1 5319.22,-937.64 7259.19,-991.58 7410.66,-942.6"/>
+<polygon fill="black" stroke="black" points="7412.56,-945.54 7418.78,-936.96 7408.56,-939.79 7412.56,-945.54"/>
+<text text-anchor="middle" x="4941.85" y="-935.35" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- books_complete&#45;&gt;books_bygenre_tmpl -->
+<g id="edge35" class="edge">
+<title>books_complete:book_id-&gt;books_bygenre_tmpl:book_id</title>
+<path fill="none" stroke="black" d="M4271.26,-297.1C4271.26,-484.72 4512.81,-380.01 4621.27,-533.1 4639.59,-558.96 4618.77,-577.93 4639.27,-602.1 4815.04,-809.39 4932.56,-791.71 5197.77,-851.1 5255.73,-864.08 7258.38,-838.63 7410.85,-891.63"/>
+<polygon fill="black" stroke="black" points="7408.65,-894.36 7418.79,-897.41 7412.77,-888.7 7408.65,-894.36"/>
+<text text-anchor="middle" x="4941.85" y="-850.99" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- user_id_map -->
+<g id="node7" class="node">
+<title>user_id_map</title>
+<polygon fill="none" stroke="black" points="3281.64,-542.1 3281.64,-578.1 3532.21,-578.1 3532.21,-542.1 3281.64,-542.1"/>
+<text text-anchor="middle" x="3336.88" y="-556" font-family="Times,serif" font-size="14.00">user_id_map.csv</text>
+<polyline fill="none" stroke="black" points="3392.12,-542.3 3392.12,-578.1"/>
+<text text-anchor="middle" x="3433.56" y="-556" font-family="Times,serif" font-size="14.00">user_id_csv</text>
+<polyline fill="none" stroke="black" points="3475,-542.3 3475,-578.1"/>
+<text text-anchor="middle" x="3503.6" y="-556" font-family="Times,serif" font-size="14.00">user_id</text>
+</g>
+<!-- user_id_map&#45;&gt;interactions_complete -->
+<g id="edge10" class="edge">
+<title>user_id_map:user_id-&gt;interactions_complete:user_id</title>
+<path fill="none" stroke="black" d="M3533.21,-560.2C3569.27,-560.2 4768.87,-513.45 4890.61,-541.19"/>
+<polygon fill="black" stroke="black" points="4888.71,-544.15 4899.2,-545.61 4891.91,-537.92 4888.71,-544.15"/>
+<text text-anchor="middle" x="4662.6" y="-536.62" font-family="Times,serif" font-size="14.00">user_id</text>
+</g>
+<!-- user_id_map&#45;&gt;interactions_complete -->
+<g id="edge40" class="edge">
+<title>user_id_map:user_id-&gt;interactions_complete:user_id</title>
+<path fill="none" stroke="black" d="M3533.21,-560.2C4045.62,-560.2 4174.42,-551.09 4685.93,-581.3 4693.96,-581.77 4695.9,-582.68 4703.93,-583.1 4722.77,-584.09 4855.61,-600.4 4891.58,-590.78"/>
+<polygon fill="black" stroke="black" points="4893.41,-593.79 4899.34,-585.01 4889.23,-588.18 4893.41,-593.79"/>
+<text text-anchor="middle" x="4662.6" y="-585.5" font-family="Times,serif" font-size="14.00">user_id</text>
+</g>
+<!-- user_id_map&#45;&gt;reviews_dedup -->
+<g id="edge11" class="edge">
+<title>user_id_map:user_id-&gt;reviews_dedup:user_id</title>
+<path fill="none" stroke="black" d="M3533.21,-560.2C4055.74,-560.2 4182.26,-482.22 4703.93,-452.3 4923.11,-439.73 4978.27,-445.02 5197.77,-441.1 5431.06,-436.94 6238.01,-200.09 6264.74,-417.88"/>
+<polygon fill="black" stroke="black" points="6261.24,-418.02 6265.33,-427.79 6268.23,-417.6 6261.24,-418.02"/>
+<text text-anchor="middle" x="4941.85" y="-456.5" font-family="Times,serif" font-size="14.00">user_id</text>
+</g>
+<!-- user_id_map&#45;&gt;reviews_dedup -->
+<g id="edge41" class="edge">
+<title>user_id_map:user_id-&gt;reviews_dedup:user_id</title>
+<path fill="none" stroke="black" d="M3533.21,-560.2C4025.7,-560.2 4147.46,-518.94 4639.27,-493.1 4879.4,-480.49 4942.29,-506.85 5179.77,-469.1 5187.97,-467.8 5189.57,-465.39 5197.77,-464.1 5428.38,-427.87 6237.92,-199.68 6264.74,-417.87"/>
+<polygon fill="black" stroke="black" points="6261.24,-418.02 6265.33,-427.79 6268.23,-417.6 6261.24,-418.02"/>
+<text text-anchor="middle" x="4941.85" y="-494.75" font-family="Times,serif" font-size="14.00">user_id</text>
+</g>
+<!-- user_id_map&#45;&gt;reviews_spoiler -->
+<g id="edge12" class="edge">
+<title>user_id_map:user_id-&gt;reviews_spoiler:user_id</title>
+<path fill="none" stroke="black" d="M3533.21,-560.2C4025,-560.2 4147.55,-536.46 4639.27,-528.1 4907.85,-523.54 4975.05,-527.16 5243.66,-525.1 6399.4,-516.23 6690.43,-569.26 7844.01,-498.1 7930.74,-492.75 8223.29,-538.66 8248.27,-463.04"/>
+<polygon fill="black" stroke="black" points="8251.66,-464.02 8249.74,-453.6 8244.74,-462.94 8251.66,-464.02"/>
+<text text-anchor="middle" x="5220.72" y="-529.6" font-family="Times,serif" font-size="14.00">user_id</text>
+</g>
+<!-- user_id_map&#45;&gt;reviews_spoiler -->
+<g id="edge42" class="edge">
+<title>user_id_map:user_id-&gt;reviews_spoiler:user_id</title>
+<path fill="none" stroke="black" d="M3533.21,-560.2C4025.08,-560.2 4147.47,-589.68 4639.27,-598.1 4879.47,-602.21 4940.71,-616.77 5179.77,-593.1 5213.03,-589.81 5220.42,-582.58 5253.66,-579.1 6366.22,-462.58 6655.54,-621.41 7770.03,-525.1 7794.7,-522.97 8178.51,-485.96 8241.31,-459.04"/>
+<polygon fill="black" stroke="black" points="8243.18,-462.03 8248.79,-453.05 8238.8,-456.57 8243.18,-462.03"/>
+<text text-anchor="middle" x="5220.72" y="-594.72" font-family="Times,serif" font-size="14.00">user_id</text>
+</g>
+<!-- user_id_map&#45;&gt;reviews_spoiler_raw -->
+<g id="edge13" class="edge">
+<title>user_id_map:user_id-&gt;reviews_spoiler_raw:user_id</title>
+<path fill="none" stroke="black" d="M3533.21,-560.2C4029.8,-560.2 4169.36,-511.97 4621.27,-306.1 4630.25,-302.01 4630.06,-296.66 4639.27,-293.1 4884.52,-198.33 6367.71,-189.2 7865.46,-169.3 7981.06,-167.76 8124.59,-56.61 8134.27,-156.85"/>
+<polygon fill="black" stroke="black" points="8130.77,-156.96 8134.72,-166.79 8137.76,-156.64 8130.77,-156.96"/>
+<text text-anchor="middle" x="5220.72" y="-230.33" font-family="Times,serif" font-size="14.00">user_id</text>
+</g>
+<!-- user_id_map&#45;&gt;reviews_spoiler_raw -->
+<g id="edge43" class="edge">
+<title>user_id_map:user_id-&gt;reviews_spoiler_raw:user_id</title>
+<path fill="none" stroke="black" d="M3533.21,-560.2C4063.06,-560.2 4181.21,-421.71 4703.93,-335.1 4922.55,-298.88 4976.91,-284.38 5197.77,-266.3 6337.54,-172.99 6686.4,-567.49 7770.03,-202.1 7779.38,-198.95 7779.1,-193.29 7788.03,-189.1 7820.2,-174.04 7830.23,-173.8 7865.46,-169.3 7980.14,-154.65 8124.53,-55.71 8134.27,-156.8"/>
+<polygon fill="black" stroke="black" points="8130.77,-156.96 8134.72,-166.79 8137.76,-156.64 8130.77,-156.96"/>
+<text text-anchor="middle" x="5220.72" y="-270.5" font-family="Times,serif" font-size="14.00">user_id</text>
+</g>
+<!-- interactions_bygenre_tmpl -->
+<g id="node13" class="node">
+<title>interactions_bygenre_tmpl</title>
+<polygon fill="none" stroke="black" points="7862.01,-770.1 7862.01,-806.1 8876.54,-806.1 8876.54,-770.1 7862.01,-770.1"/>
+<text text-anchor="middle" x="7996.56" y="-784" font-family="Times,serif" font-size="14.00">goodreads_interactions_*.json.gz (Template)</text>
+<polyline fill="none" stroke="black" points="8131.1,-770.3 8131.1,-806.1"/>
+<text text-anchor="middle" x="8159.71" y="-784" font-family="Times,serif" font-size="14.00">user_id</text>
+<polyline fill="none" stroke="black" points="8188.31,-770.3 8188.31,-806.1"/>
+<text text-anchor="middle" x="8219.26" y="-784" font-family="Times,serif" font-size="14.00">book_id</text>
+<polyline fill="none" stroke="black" points="8250.2,-770.3 8250.2,-806.1"/>
+<text text-anchor="middle" x="8286.19" y="-784" font-family="Times,serif" font-size="14.00">review_id</text>
+<polyline fill="none" stroke="black" points="8322.18,-770.3 8322.18,-806.1"/>
+<text text-anchor="middle" x="8350.4" y="-784" font-family="Times,serif" font-size="14.00">is_read</text>
+<polyline fill="none" stroke="black" points="8378.61,-770.3 8378.61,-806.1"/>
+<text text-anchor="middle" x="8402.94" y="-784" font-family="Times,serif" font-size="14.00">rating</text>
+<polyline fill="none" stroke="black" points="8427.27,-770.3 8427.27,-806.1"/>
+<text text-anchor="middle" x="8502.91" y="-784" font-family="Times,serif" font-size="14.00">review_text_incomplete</text>
+<polyline fill="none" stroke="black" points="8578.55,-770.3 8578.55,-806.1"/>
+<text text-anchor="middle" x="8618.42" y="-784" font-family="Times,serif" font-size="14.00">date_added</text>
+<polyline fill="none" stroke="black" points="8658.29,-770.3 8658.29,-806.1"/>
+<text text-anchor="middle" x="8703.61" y="-784" font-family="Times,serif" font-size="14.00">date_updated</text>
+<polyline fill="none" stroke="black" points="8748.93,-770.3 8748.93,-806.1"/>
+<text text-anchor="middle" x="8777.53" y="-784" font-family="Times,serif" font-size="14.00">read_at</text>
+<polyline fill="none" stroke="black" points="8806.12,-770.3 8806.12,-806.1"/>
+<text text-anchor="middle" x="8841.33" y="-784" font-family="Times,serif" font-size="14.00">started_at</text>
+</g>
+<!-- user_id_map&#45;&gt;interactions_bygenre_tmpl -->
+<g id="edge14" class="edge">
+<title>user_id_map:user_id-&gt;interactions_bygenre_tmpl:user_id</title>
+<path fill="none" stroke="black" d="M3533.21,-560.2C4035.76,-560.2 4140.12,-736.8 4639.27,-795.1 5023.19,-839.94 4524.54,-812.27 7770.03,-808.1 7809.69,-808.05 8103.66,-843.58 8152.76,-816.27"/>
+<polygon fill="black" stroke="black" points="8155.55,-818.39 8158.79,-808.31 8149.97,-814.17 8155.55,-818.39"/>
+<text text-anchor="middle" x="5220.72" y="-823.65" font-family="Times,serif" font-size="14.00">user_id</text>
+</g>
+<!-- user_id_map&#45;&gt;interactions_bygenre_tmpl -->
+<g id="edge44" class="edge">
+<title>user_id_map:user_id-&gt;interactions_bygenre_tmpl:user_id</title>
+<path fill="none" stroke="black" d="M3533.21,-560.2C4303.91,-560.2 4484.76,-724.53 5253.66,-777.1 5831.98,-816.64 7282.36,-801.9 7862.01,-806.1 7891.67,-806.32 8107.4,-833.53 8151.75,-815.33"/>
+<polygon fill="black" stroke="black" points="8154.22,-817.81 8158.65,-808.19 8149.19,-812.95 8154.22,-817.81"/>
+<text text-anchor="middle" x="5220.72" y="-780.07" font-family="Times,serif" font-size="14.00">user_id</text>
+</g>
+<!-- reviews_bygenre_tmpl -->
+<g id="node14" class="node">
+<title>reviews_bygenre_tmpl</title>
+<polygon fill="none" stroke="black" points="8973.18,-804.1 8973.18,-840.1 9987.4,-840.1 9987.4,-804.1 8973.18,-804.1"/>
+<text text-anchor="middle" x="9096.83" y="-818" font-family="Times,serif" font-size="14.00">goodreads_reviews_*.json.gz (Template)</text>
+<polyline fill="none" stroke="black" points="9220.49,-804.3 9220.49,-840.1"/>
+<text text-anchor="middle" x="9249.1" y="-818" font-family="Times,serif" font-size="14.00">user_id</text>
+<polyline fill="none" stroke="black" points="9277.71,-804.3 9277.71,-840.1"/>
+<text text-anchor="middle" x="9308.65" y="-818" font-family="Times,serif" font-size="14.00">book_id</text>
+<polyline fill="none" stroke="black" points="9339.6,-804.3 9339.6,-840.1"/>
+<text text-anchor="middle" x="9375.59" y="-818" font-family="Times,serif" font-size="14.00">review_id</text>
+<polyline fill="none" stroke="black" points="9411.58,-804.3 9411.58,-840.1"/>
+<text text-anchor="middle" x="9435.9" y="-818" font-family="Times,serif" font-size="14.00">rating</text>
+<polyline fill="none" stroke="black" points="9460.23,-804.3 9460.23,-840.1"/>
+<text text-anchor="middle" x="9501.27" y="-818" font-family="Times,serif" font-size="14.00">review_text</text>
+<polyline fill="none" stroke="black" points="9542.31,-804.3 9542.31,-840.1"/>
+<text text-anchor="middle" x="9582.19" y="-818" font-family="Times,serif" font-size="14.00">date_added</text>
+<polyline fill="none" stroke="black" points="9622.06,-804.3 9622.06,-840.1"/>
+<text text-anchor="middle" x="9667.38" y="-818" font-family="Times,serif" font-size="14.00">date_updated</text>
+<polyline fill="none" stroke="black" points="9712.69,-804.3 9712.69,-840.1"/>
+<text text-anchor="middle" x="9741.29" y="-818" font-family="Times,serif" font-size="14.00">read_at</text>
+<polyline fill="none" stroke="black" points="9769.89,-804.3 9769.89,-840.1"/>
+<text text-anchor="middle" x="9805.1" y="-818" font-family="Times,serif" font-size="14.00">started_at</text>
+<polyline fill="none" stroke="black" points="9840.31,-804.3 9840.31,-840.1"/>
+<text text-anchor="middle" x="9870.08" y="-818" font-family="Times,serif" font-size="14.00">n_votes</text>
+<polyline fill="none" stroke="black" points="9899.86,-804.3 9899.86,-840.1"/>
+<text text-anchor="middle" x="9943.63" y="-818" font-family="Times,serif" font-size="14.00">n_comments</text>
+</g>
+<!-- user_id_map&#45;&gt;reviews_bygenre_tmpl -->
+<g id="edge15" class="edge">
+<title>user_id_map:user_id-&gt;reviews_bygenre_tmpl:user_id</title>
+<path fill="none" stroke="black" d="M3533.21,-560.2C4064.74,-560.2 4125.52,-878.76 4639.27,-1015.1 4769.9,-1049.77 4805.7,-1054.1 4940.85,-1054.1 4940.85,-1054.1 4940.85,-1054.1 8370.28,-1054.1 8768.35,-1054.1 9240.02,-1239.42 9248.97,-852.42"/>
+<polygon fill="black" stroke="black" points="9252.47,-852.65 9249.08,-842.61 9245.47,-852.57 9252.47,-852.65"/>
+<text text-anchor="middle" x="6515.85" y="-1058.3" font-family="Times,serif" font-size="14.00">user_id</text>
+</g>
+<!-- user_id_map&#45;&gt;reviews_bygenre_tmpl -->
+<g id="edge45" class="edge">
+<title>user_id_map:user_id-&gt;reviews_bygenre_tmpl:user_id</title>
+<path fill="none" stroke="black" d="M3533.21,-560.2C4057.16,-560.2 4129.26,-848.07 4639.27,-968.1 4770.52,-998.99 4806.01,-1001.1 4940.85,-1001.1 4940.85,-1001.1 4940.85,-1001.1 8370.28,-1001.1 8564.9,-1001.1 9222.71,-1038.12 9248.33,-852.46"/>
+<polygon fill="black" stroke="black" points="9251.81,-852.82 9249,-842.61 9244.83,-852.35 9251.81,-852.82"/>
+<text text-anchor="middle" x="6515.85" y="-1005.3" font-family="Times,serif" font-size="14.00">user_id</text>
+</g>
+<!-- interactions_complete&#45;&gt;reviews_dedup -->
+<g id="edge20" class="edge">
+<title>interactions_complete:rating-&gt;reviews_dedup:rating</title>
+<path fill="none" stroke="black" d="M5071.8,-546.3C5071.8,-538.99 5190.56,-509.49 5197.77,-508.3 5331.62,-486.3 6391.88,-600.06 6449.76,-477.97"/>
+<polygon fill="black" stroke="black" points="6453.09,-479.1 6451.89,-468.58 6446.26,-477.56 6453.09,-479.1"/>
+<text text-anchor="middle" x="5220.72" y="-512.5" font-family="Times,serif" font-size="14.00">rating</text>
+</g>
+<!-- interactions_complete&#45;&gt;reviews_dedup -->
+<g id="edge50" class="edge">
+<title>interactions_complete:rating-&gt;reviews_dedup:rating</title>
+<path fill="none" stroke="black" d="M5071.8,-546.3C5071.8,-495.96 5139.74,-542.62 5179.77,-512.1 5191.48,-503.18 5184.89,-491.42 5197.77,-484.3 5438.31,-351.34 6423.76,-734.77 6451.62,-478.54"/>
+<polygon fill="black" stroke="black" points="6455.11,-478.78 6452.14,-468.61 6448.12,-478.41 6455.11,-478.78"/>
+<text text-anchor="middle" x="5220.72" y="-488.5" font-family="Times,serif" font-size="14.00">rating</text>
+</g>
+<!-- interactions_complete&#45;&gt;interactions_bygenre_tmpl -->
+<g id="edge21" class="edge">
+<title>interactions_complete:rating-&gt;interactions_bygenre_tmpl:rating</title>
+<path fill="none" stroke="black" d="M5071.8,-584.1C5071.8,-684.24 5153.77,-710.04 5253.66,-717.1 5258.92,-717.47 8185.77,-760.63 8391.55,-768.58"/>
+<polygon fill="black" stroke="black" points="8391.23,-772.06 8401.43,-769.2 8391.67,-765.08 8391.23,-772.06"/>
+<text text-anchor="middle" x="6515.85" y="-760.62" font-family="Times,serif" font-size="14.00">rating</text>
+</g>
+<!-- interactions_complete&#45;&gt;interactions_bygenre_tmpl -->
+<g id="edge51" class="edge">
+<title>interactions_complete:rating-&gt;interactions_bygenre_tmpl:rating</title>
+<path fill="none" stroke="black" d="M5071.8,-584.1C5071.8,-672.4 5165.57,-658.04 5253.66,-664.1 5323.4,-668.9 7710.33,-659.93 7770.03,-696.3 7784.57,-705.15 7773.73,-720.88 7788.03,-730.1 7899.75,-802.11 8373.98,-642.24 8401.67,-758.05"/>
+<polygon fill="black" stroke="black" points="8398.17,-758.25 8402.77,-767.8 8405.13,-757.47 8398.17,-758.25"/>
+<text text-anchor="middle" x="6515.85" y="-700.5" font-family="Times,serif" font-size="14.00">rating</text>
+</g>
+<!-- interactions_complete&#45;&gt;interactions_bygenre_tmpl -->
+<g id="edge55" class="edge">
+<title>interactions_complete:is_read-&gt;interactions_bygenre_tmpl:is_read</title>
+<path fill="none" stroke="black" d="M5019.26,-584.1C5019.26,-664.15 5117.94,-602.21 5197.77,-608.1 5482.83,-629.14 7542.58,-470.2 7770.03,-643.3 7792.8,-660.63 7766.16,-686.66 7788.03,-705.1 7881.09,-783.57 8320.73,-652.48 8348.97,-757.96"/>
+<polygon fill="black" stroke="black" points="8345.49,-758.31 8350.21,-767.8 8352.43,-757.44 8345.49,-758.31"/>
+<text text-anchor="middle" x="6515.85" y="-647.5" font-family="Times,serif" font-size="14.00">is_read</text>
+</g>
+<!-- reviews_dedup&#45;&gt;reviews_spoiler -->
+<g id="edge16" class="edge">
+<title>reviews_dedup:review_id-&gt;reviews_spoiler:review_id</title>
+<path fill="none" stroke="black" d="M6391.9,-467.1C6391.9,-535.08 6935.75,-466.67 7003.72,-466.1 7352.33,-463.19 7439.43,-457.35 7788.03,-454.3 7789.5,-454.29 8577.81,-453.75 8682.5,-452.4"/>
+<polygon fill="black" stroke="black" points="8682.52,-455.9 8692.42,-452.14 8682.33,-448.9 8682.52,-455.9"/>
+<text text-anchor="middle" x="7816.02" y="-458.5" font-family="Times,serif" font-size="14.00">review_id</text>
+</g>
+<!-- reviews_dedup&#45;&gt;reviews_spoiler -->
+<g id="edge23" class="edge">
+<title>reviews_dedup:rating-&gt;reviews_spoiler:rating</title>
+<path fill="none" stroke="black" d="M6452.22,-467.1C6452.22,-494.24 8324.25,-481.61 8481.47,-455.6"/>
+<polygon fill="black" stroke="black" points="8482.15,-459.06 8490.53,-452.58 8479.93,-452.42 8482.15,-459.06"/>
+<text text-anchor="middle" x="7816.02" y="-481.41" font-family="Times,serif" font-size="14.00">rating</text>
+</g>
+<!-- reviews_dedup&#45;&gt;reviews_spoiler -->
+<g id="edge46" class="edge">
+<title>reviews_dedup:review_id-&gt;reviews_spoiler:review_id</title>
+<path fill="none" stroke="black" d="M6391.9,-429.3C6391.9,-367.73 8526.25,-351.53 8684.66,-407.51"/>
+<polygon fill="black" stroke="black" points="8682.58,-410.32 8692.71,-413.41 8686.71,-404.67 8682.58,-410.32"/>
+<text text-anchor="middle" x="7816.02" y="-377.54" font-family="Times,serif" font-size="14.00">review_id</text>
+</g>
+<!-- reviews_dedup&#45;&gt;reviews_spoiler -->
+<g id="edge53" class="edge">
+<title>reviews_dedup:rating-&gt;reviews_spoiler:rating</title>
+<path fill="none" stroke="black" d="M6452.22,-429.3C6452.22,-402.19 8320.44,-387.28 8480.99,-410.89"/>
+<polygon fill="black" stroke="black" points="8479.93,-414.22 8490.52,-413.85 8482.01,-407.54 8479.93,-414.22"/>
+<text text-anchor="middle" x="7816.02" y="-403.34" font-family="Times,serif" font-size="14.00">rating</text>
+</g>
+<!-- reviews_dedup&#45;&gt;reviews_spoiler_raw -->
+<g id="edge17" class="edge">
+<title>reviews_dedup:review_id-&gt;reviews_spoiler_raw:review_id</title>
+<path fill="none" stroke="black" d="M6391.9,-429.3C6391.9,-328.08 8142.73,-311.69 8255.57,-215.94"/>
+<polygon fill="black" stroke="black" points="8258.53,-217.82 8260.52,-207.41 8252.47,-214.31 8258.53,-217.82"/>
+<text text-anchor="middle" x="7816.02" y="-290.49" font-family="Times,serif" font-size="14.00">review_id</text>
+</g>
+<!-- reviews_dedup&#45;&gt;reviews_spoiler_raw -->
+<g id="edge24" class="edge">
+<title>reviews_dedup:rating-&gt;reviews_spoiler_raw:rating</title>
+<path fill="none" stroke="black" d="M6452.22,-429.3C6452.22,-133.55 7535.76,-423.62 7770.03,-243.1 7786.38,-230.51 7770.84,-211.72 7788.03,-200.3 7808.76,-186.53 7819.28,-197.57 7844.01,-200.3 7853.72,-201.37 7855.75,-204.02 7865.46,-205.1 8063,-227.15 8311.66,-401.81 8321.3,-217.54"/>
+<polygon fill="black" stroke="black" points="8324.8,-217.7 8321.55,-207.61 8317.8,-217.52 8324.8,-217.7"/>
+<text text-anchor="middle" x="7816.02" y="-204.5" font-family="Times,serif" font-size="14.00">rating</text>
+</g>
+<!-- reviews_dedup&#45;&gt;reviews_spoiler_raw -->
+<g id="edge47" class="edge">
+<title>reviews_dedup:review_id-&gt;reviews_spoiler_raw:review_id</title>
+<path fill="none" stroke="black" d="M6391.9,-429.3C6391.9,-273.06 7632.87,-279.69 7788.03,-261.3 7994.42,-236.85 8251.53,-411.19 8261,-217.49"/>
+<polygon fill="black" stroke="black" points="8264.5,-217.69 8261.24,-207.61 8257.5,-217.53 8264.5,-217.69"/>
+<text text-anchor="middle" x="7816.02" y="-265.5" font-family="Times,serif" font-size="14.00">review_id</text>
+</g>
+<!-- reviews_dedup&#45;&gt;reviews_spoiler_raw -->
+<g id="edge54" class="edge">
+<title>reviews_dedup:rating-&gt;reviews_spoiler_raw:rating</title>
+<path fill="none" stroke="black" d="M6452.22,-429.3C6452.22,-224 8252.86,-408.18 8319.68,-217.33"/>
+<polygon fill="black" stroke="black" points="8323.11,-218.04 8321.34,-207.59 8316.21,-216.87 8323.11,-218.04"/>
+<text text-anchor="middle" x="7816.02" y="-316.22" font-family="Times,serif" font-size="14.00">rating</text>
+</g>
+<!-- reviews_dedup&#45;&gt;interactions_bygenre_tmpl -->
+<g id="edge18" class="edge">
+<title>reviews_dedup:review_id-&gt;interactions_bygenre_tmpl:review_id</title>
+<path fill="none" stroke="black" d="M6391.9,-467.1C6391.9,-775.26 7524.13,-435.37 7770.03,-621.1 7786.89,-633.84 7772.63,-650.63 7788.03,-665.1 7813.33,-688.86 7828.43,-681.34 7862.01,-690.1 7950.99,-713.32 8259.41,-676.66 8284.56,-758.18"/>
+<polygon fill="black" stroke="black" points="8281.06,-758.42 8285.97,-767.8 8287.98,-757.4 8281.06,-758.42"/>
+<text text-anchor="middle" x="7816.02" y="-690.62" font-family="Times,serif" font-size="14.00">review_id</text>
+</g>
+<!-- reviews_dedup&#45;&gt;interactions_bygenre_tmpl -->
+<g id="edge48" class="edge">
+<title>reviews_dedup:review_id-&gt;interactions_bygenre_tmpl:review_id</title>
+<path fill="none" stroke="black" d="M6391.9,-467.1C6391.9,-621.18 7619.26,-589.35 7770.03,-621.1 7778.46,-622.88 7837.71,-638.43 7844.01,-644.3 7860.01,-659.21 7845.15,-676.17 7862.01,-690.1 8006.84,-809.74 8274.91,-587 8285.85,-758.03"/>
+<polygon fill="black" stroke="black" points="8282.34,-757.9 8286.15,-767.79 8289.34,-757.69 8282.34,-757.9"/>
+<text text-anchor="middle" x="7816.02" y="-648.5" font-family="Times,serif" font-size="14.00">review_id</text>
+</g>
+<!-- reviews_dedup&#45;&gt;reviews_bygenre_tmpl -->
+<g id="edge19" class="edge">
+<title>reviews_dedup:review_id-&gt;reviews_bygenre_tmpl:review_id</title>
+<path fill="none" stroke="black" d="M6391.9,-467.1C6391.9,-620.55 7645.12,-467.97 7770.03,-557.1 7786.9,-569.14 7773.88,-584.97 7788.03,-600.1 7788.08,-600.15 7861.94,-637.08 7862.01,-637.1 8332.33,-761.86 8474.14,-623.84 8955.18,-697.1 9141.79,-725.52 9366.17,-615.26 9375.3,-791.83"/>
+<polygon fill="black" stroke="black" points="9371.8,-791.88 9375.55,-801.79 9378.8,-791.7 9371.8,-791.88"/>
+<text text-anchor="middle" x="8369.28" y="-696.06" font-family="Times,serif" font-size="14.00">review_id</text>
+</g>
+<!-- reviews_dedup&#45;&gt;reviews_bygenre_tmpl -->
+<g id="edge22" class="edge">
+<title>reviews_dedup:rating-&gt;reviews_bygenre_tmpl:rating</title>
+<path fill="none" stroke="black" d="M6452.22,-467.1C6452.22,-613.87 7636.43,-496.35 7770.03,-557.1 7780.33,-561.78 7777.86,-570.15 7788.03,-575.1 7817.81,-589.6 7828.99,-581.58 7862.01,-584.1 8087.93,-601.38 8658.11,-576.11 8881.09,-616.3 9133.43,-661.79 9427.16,-546.55 9435.71,-792.11"/>
+<polygon fill="black" stroke="black" points="9432.21,-791.85 9435.88,-801.79 9439.21,-791.73 9432.21,-791.85"/>
+<text text-anchor="middle" x="8369.28" y="-620.5" font-family="Times,serif" font-size="14.00">rating</text>
+</g>
+<!-- reviews_dedup&#45;&gt;reviews_bygenre_tmpl -->
+<g id="edge49" class="edge">
+<title>reviews_dedup:review_id-&gt;reviews_bygenre_tmpl:review_id</title>
+<path fill="none" stroke="black" d="M6391.9,-467.1C6391.9,-605.49 8746.41,-531.49 8881.09,-563.3 9115.13,-618.58 9367.57,-560.87 9375.4,-792.07"/>
+<polygon fill="black" stroke="black" points="9371.89,-791.85 9375.56,-801.79 9378.89,-791.73 9371.89,-791.85"/>
+<text text-anchor="middle" x="8369.28" y="-567.5" font-family="Times,serif" font-size="14.00">review_id</text>
+</g>
+<!-- reviews_dedup&#45;&gt;reviews_bygenre_tmpl -->
+<g id="edge52" class="edge">
+<title>reviews_dedup:rating-&gt;reviews_bygenre_tmpl:rating</title>
+<path fill="none" stroke="black" d="M6452.22,-467.1C6452.22,-534.59 8814.93,-519.96 8881.09,-533.3 9099.16,-577.28 9423.6,-597.31 9435.56,-792.07"/>
+<polygon fill="black" stroke="black" points="9432.06,-791.9 9435.86,-801.79 9439.05,-791.69 9432.06,-791.9"/>
+<text text-anchor="middle" x="8369.28" y="-537.5" font-family="Times,serif" font-size="14.00">rating</text>
+</g>
+<!-- books_bygenre_tmpl&#45;&gt;interactions_bygenre_tmpl -->
+<g id="edge25" class="edge">
+<title>books_bygenre_tmpl:book_id-&gt;interactions_bygenre_tmpl:book_id</title>
+<path fill="none" stroke="black" d="M7420.02,-898.3C7420.02,-812.76 8152.05,-889.28 8214.96,-817.67"/>
+<polygon fill="black" stroke="black" points="8218.16,-819.08 8218.69,-808.5 8211.68,-816.45 8218.16,-819.08"/>
+<text text-anchor="middle" x="7816.02" y="-856.96" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- books_bygenre_tmpl&#45;&gt;interactions_bygenre_tmpl -->
+<g id="edge56" class="edge">
+<title>books_bygenre_tmpl:book_id-&gt;interactions_bygenre_tmpl:book_id</title>
+<path fill="none" stroke="black" d="M7420.02,-898.3C7420.02,-851.09 7797.13,-876.59 7844.01,-871.1 7924.09,-861.73 8192.41,-888.93 8217.39,-818.25"/>
+<polygon fill="black" stroke="black" points="8220.81,-819.03 8219.01,-808.59 8213.9,-817.88 8220.81,-819.03"/>
+<text text-anchor="middle" x="7816.02" y="-876.12" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- books_bygenre_tmpl&#45;&gt;reviews_bygenre_tmpl -->
+<g id="edge26" class="edge">
+<title>books_bygenre_tmpl:book_id-&gt;reviews_bygenre_tmpl:book_id</title>
+<path fill="none" stroke="black" d="M7420.02,-898.3C7420.02,-820.52 7692.26,-898.56 7770.03,-899.3 8263.88,-904.01 8420.32,-739.55 8881.09,-917.3 8888.51,-920.16 8887.1,-926.3 8894.54,-929.1 8919.76,-938.6 8928.43,-932.38 8955.18,-929.1 9111.95,-909.88 9299.26,-998.49 9308.31,-852.51"/>
+<polygon fill="black" stroke="black" points="9311.8,-852.71 9308.61,-842.61 9304.81,-852.5 9311.8,-852.71"/>
+<text text-anchor="middle" x="8369.28" y="-921.5" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- books_bygenre_tmpl&#45;&gt;reviews_bygenre_tmpl -->
+<g id="edge57" class="edge">
+<title>books_bygenre_tmpl:book_id-&gt;reviews_bygenre_tmpl:book_id</title>
+<path fill="none" stroke="black" d="M7420.02,-936.1C7420.02,-977.06 8853.58,-937.09 8894.54,-937.1 9079.6,-937.16 9299.43,-1026.26 9308.37,-852.37"/>
+<polygon fill="black" stroke="black" points="9311.86,-852.7 9308.61,-842.61 9304.86,-852.52 9311.86,-852.7"/>
+<text text-anchor="middle" x="8369.28" y="-958.59" font-family="Times,serif" font-size="14.00">book_id</text>
+</g>
+<!-- interactions_bygenre_tmpl&#45;&gt;reviews_bygenre_tmpl -->
+<g id="edge27" class="edge">
+<title>interactions_bygenre_tmpl:user_id-&gt;reviews_bygenre_tmpl:user_id</title>
+<path fill="none" stroke="black" d="M8159.71,-807.1C8159.71,-889.15 8812.59,-876.04 8894.54,-880.1 8921.46,-881.43 8928.29,-881.88 8955.18,-880.1 9082.69,-871.68 9239.29,-966.84 9248.66,-852.44"/>
+<polygon fill="black" stroke="black" points="9252.15,-852.74 9249.04,-842.61 9245.15,-852.47 9252.15,-852.74"/>
+<text text-anchor="middle" x="8924.86" y="-885.47" font-family="Times,serif" font-size="14.00">user_id</text>
+</g>
+<!-- interactions_bygenre_tmpl&#45;&gt;reviews_bygenre_tmpl -->
+<g id="edge28" class="edge">
+<title>interactions_bygenre_tmpl:review_id-&gt;reviews_bygenre_tmpl:review_id</title>
+<path fill="none" stroke="black" d="M8286.19,-807.1C8286.19,-940.32 8768.4,-810.06 8881.09,-881.1 8890.47,-887.01 8884.82,-896.78 8894.54,-902.1 8918.19,-915.03 8928.3,-904.04 8955.18,-902.1 9139.54,-888.8 9365.86,-1024.04 9375.28,-852.56"/>
+<polygon fill="black" stroke="black" points="9378.78,-852.7 9375.55,-842.61 9371.78,-852.52 9378.78,-852.7"/>
+<text text-anchor="middle" x="8924.86" y="-912.5" font-family="Times,serif" font-size="14.00">review_id</text>
+</g>
+<!-- interactions_bygenre_tmpl&#45;&gt;reviews_bygenre_tmpl -->
+<g id="edge29" class="edge">
+<title>interactions_bygenre_tmpl:is_read-&gt;reviews_bygenre_tmpl:read_at</title>
+<path fill="none" stroke="black" d="M8350.4,-769.3C8350.4,-702.04 8901.31,-703.03 8955.18,-743.3 8974.13,-757.47 8958.31,-778.53 8965.76,-795.17"/>
+<polygon fill="black" stroke="black" points="8962.77,-797.04 8971.72,-802.71 8968.26,-792.69 8962.77,-797.04"/>
+<text text-anchor="middle" x="8924.86" y="-747.5" font-family="Times,serif" font-size="14.00">read_at?</text>
+</g>
+<!-- interactions_bygenre_tmpl&#45;&gt;reviews_bygenre_tmpl -->
+<g id="edge30" class="edge">
+<title>interactions_bygenre_tmpl:is_read-&gt;reviews_bygenre_tmpl:started_at</title>
+<path fill="none" stroke="black" d="M8350.4,-769.3C8350.4,-735.52 8929.22,-684.68 8955.18,-706.3 8985.76,-731.78 8948.83,-767.25 8965.38,-795.18"/>
+<polygon fill="black" stroke="black" points="8962.69,-797.42 8971.81,-802.8 8968.04,-792.9 8962.69,-797.42"/>
+<text text-anchor="middle" x="8924.86" y="-710.5" font-family="Times,serif" font-size="14.00">started_at?</text>
+</g>
+<!-- interactions_bygenre_tmpl&#45;&gt;reviews_bygenre_tmpl -->
+<g id="edge58" class="edge">
+<title>interactions_bygenre_tmpl:user_id-&gt;reviews_bygenre_tmpl:user_id</title>
+<path fill="none" stroke="black" d="M8159.71,-807.1C8159.71,-897.49 8882.8,-805.31 8973.18,-804.3 9091.73,-802.98 9238.95,-688.65 9248.6,-791.88"/>
+<polygon fill="black" stroke="black" points="9245.1,-791.95 9249.03,-801.79 9252.09,-791.65 9245.1,-791.95"/>
+<text text-anchor="middle" x="8924.86" y="-813.91" font-family="Times,serif" font-size="14.00">user_id</text>
+</g>
+<!-- interactions_bygenre_tmpl&#45;&gt;reviews_bygenre_tmpl -->
+<g id="edge59" class="edge">
+<title>interactions_bygenre_tmpl:review_id-&gt;reviews_bygenre_tmpl:review_id</title>
+<path fill="none" stroke="black" d="M8286.19,-807.1C8286.19,-835.63 9253.67,-867.47 9365.15,-845.71"/>
+<polygon fill="black" stroke="black" points="9366.47,-848.95 9374.2,-841.71 9363.64,-842.55 9366.47,-848.95"/>
+<text text-anchor="middle" x="8924.86" y="-854.29" font-family="Times,serif" font-size="14.00">review_id</text>
+</g>
+<!-- interactions_bygenre_tmpl&#45;&gt;reviews_bygenre_tmpl -->
+<g id="edge60" class="edge">
+<title>interactions_bygenre_tmpl:rating-&gt;reviews_bygenre_tmpl:rating</title>
+<path fill="none" stroke="black" d="M8402.94,-769.3C8402.94,-742.27 9318.4,-770.82 9425.68,-798.21"/>
+<polygon fill="black" stroke="black" points="9424.04,-801.3 9434.55,-802.63 9427.15,-795.04 9424.04,-801.3"/>
+<text text-anchor="middle" x="8924.86" y="-769.84" font-family="Times,serif" font-size="14.00">rating</text>
+</g>
+</g>
+</svg>

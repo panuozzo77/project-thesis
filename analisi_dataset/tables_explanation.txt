@@ -1,0 +1,46 @@
+[goodreads_book_works]
+Represents the abstract concept of a book, independent of editions and formats. Each work may correspond to multiple book editions in the books table. Useful for tracking overall engagement (reviews, ratings) across versions of the same book.
+
+[goodreads_books]
+Contains detailed information about individual book editions. This includes metadata such as ISBN, format, title, author(s), publication info, and links to Goodreads. It also includes social interaction data like ratings, text review counts, and user-generated shelf categories.
+
+[goodreads_book_authors]
+Stores information about book authors, including their name and aggregated rating statistics across all their works.
+
+[goodreads_book_series]
+Describes book series, typically grouping related works or sequels together. Each series includes a description and count of associated works or volumes.
+
+[goodreads_book_genres_initial]
+Contains the categories grouped to a specific kind of book
+
+Unique genres found in the file:
+history, historical fiction, biography
+children
+comics, graphic
+romance
+fiction
+young-adult
+mystery, thriller, crime
+non-fiction
+poetry
+fantasy, paranormal
+
+[goodreads_books_mystery_thriller_crime]
+book genre subset
+
+[goodreads_interactions]
+[goodreads_interactions_mystery_thriller_crime]
+Captures user interactions with books — mainly tracking shelf behavior like adding books to "to-read", marking them as read, assigning a rating, and optionally associating a review. This table is a deduplicated log of user engagement with specific books over time.
+
+[goodreads_reviews_dedup]
+[goodreads_reviews_mystery_thriller_crime]
+Contains full text reviews written by users for books. Includes qualitative and quantitative data such as the review text, rating, dates, and feedback stats like number of upvotes and comments.
+
+[goodreads_reviews_spoiler]
+A structured version of user reviews, segmented into sentences with spoiler tagging. This version supports downstream NLP or filtering applications (e.g. for highlighting spoilers or summarizing reviews safely).
+review_sentences: List of tuples, where each tuple is:
+    A spoiler flag (0 for non-spoiler, 1 for spoiler),
+    A sentence of the review.
+
+[goodreads_reviews_spoiler_raw]
+The raw text version of spoiler-tagged reviews from Goodreads, including full original text (not split into sentences), with spoiler content marked using (view spoiler) / (hide spoiler) tags. This version reflects how users saw the review on the Goodreads site.

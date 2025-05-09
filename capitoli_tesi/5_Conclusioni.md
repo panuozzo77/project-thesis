@@ -1,0 +1,1 @@
+Qui si riassume quanto è stato fatto, i risultati principali ottenuti e dell'impatto del lavoro (quanto è utile per gli altri?). Dopodiché, si parla anche di cosa non è stato fatto e di quanto ancora c'è da fare nell'ambito scelto (i cosiddetti, sviluppi futuri).

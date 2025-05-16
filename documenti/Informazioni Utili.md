@@ -7,3 +7,7 @@
 [[DuckDB]]
 
 [Scraping su Goodreads](https://github.com/scostap/goodreads_bbe_dataset) 'best books ever'
+
+[[Tesi Luigi.pdf]]
+
+[[Tesi Raffaele.pdf]]

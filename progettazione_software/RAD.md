@@ -1,11 +1,10 @@
-
 # Introduzione
 ## Obiettivo del Sistema
 Questo progetto di tirocinio ha l'obiettivo di sviluppare un **tool per la manutenzione di dataset librari**, finalizzato a supportare la creazione di **sistemi di raccomandazione**. 
 
 Nello specifico, sarà proposto un sistema che **incentiva la lettura di generi inesplorati**, arricchendo al contempo i **metadati librari** con una struttura aggiornata e innovativa.
 ## Ambito del Sistema
-Contribuire attivamente allo sviluppo della **ricerca nel campo**, fornendo sia strumenti pratici che spunti teorici
+Contribuire attivamente allo sviluppo della **ricerca nel campo**, fornendo sia strumenti pratici che spunti teorici.
 ## Obiettivi e Criteri di Successo del Sistema
 - **Funzionalità Base del Tool e del Sistema di Raccomandazione:**
     - **Sviluppo del Tool:** Il tool per i manutentori di dataset deve essere funzionante e capace di eseguire le operazioni principali per cui è stato concepito (caricamento dati, visualizzazione, modifica, estensione di metadati).
@@ -72,7 +71,7 @@ Sono presenti numerosi siti web gratuiti dove ad oggi è possibile creare le pro
 
 
 # Sistema Proposto
-Partendo da un dataset librario dato in input (nel formato atteso), il sistema si occuperà di produrre un database (con Apache Ignite) così composto e successivamente arricchito:
+Partendo da un dataset librario dato in input (nel formato atteso), il sistema si occuperà di produrre un database (con Apache Ignite [[perché Ignite?]]) così composto e successivamente arricchito:
 ## Tabella Libro
 Le informazioni minime per l'identificazione di un libro sono:
 
@@ -125,8 +124,8 @@ Attraverso l'analisi delle recensioni lasciate sul sistema, è possibile profila
 | --- | ------------------------ | ----------------------------------------------------------------------------------------------------------------- | -------- | -------- |
 | 1   | Caricamento Dataset      | Il sistema dovrà uniformare i dati in ingresso per lavorare con dataset librari differenti, a scelta dell'utente. | Curatore | Elevata  |
 | 2   | Data Augmentation        | Il sistema si occupa di etichettare con ulteriori attributi utili i singoli libri caricati nel dataset.           | Curatore | Elevata  |
-| 3   | Raccolta Libri Personale | Il sistema permette di tenere traccia e recensire i libri dell'utilizzatore                                       | Curatore | Elevata  |
-| 4   | Raccomandazioni          | Il sistema genera dei nuovi libri come suggerimenti per la lettura                                                | Curatore | Elevata  |
+| 3   | Raccolta Libri Personale | Il sistema permette di tenere traccia e recensire i libri dell'utilizzatore                                       | Utente   | Elevata  |
+| 4   | Raccomandazioni          | Il sistema genera dei nuovi libri come suggerimenti per la lettura                                                | Utente   | Elevata  |
 
 
 ## Requisiti Non Funzionali
@@ -135,8 +134,7 @@ Attraverso l'analisi delle recensioni lasciate sul sistema, è possibile profila
 | --- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
 | 1   | Gestione Errori Esplicativa             | Il sistema deve prevedere una<br>gestione degli errori che fornisca<br>messaggi chiari agli utenti per gli<br>specifici problemi legati o meno<br>al sistema, specificandone la<br>causa.                                                                                       | Media    | Media      |
 | 2   | Indipendenza<br>hardware /<br>software  | Il sistema deve essere utilizzabile<br>nella sua interezza<br>indipendentemente<br>dall’architettura hardware e<br>software dell’utente.                                                                                                                                        | Alta     | Bassa      |
-| 3   | Modifiche /<br>Estensioni<br>Facilitate | Il sistema deve essere progettato in<br>modo da consentire modifiche ed<br>estensioni facili ed efficienti alla code-base per<br>migliorare la sua utilità. Questo<br>richiede una documentazione<br>completa e chiara del codice<br>sorgente ed un design di tipo<br>modulare. | Alta     |            |
-| 4   | Legalità dei Dati                       |                                                                                                                                                                                                                                                                                 | Alta     | Alta       |
+| 3   | Modifiche /<br>Estensioni<br>Facilitate | Il sistema deve essere progettato in<br>modo da consentire modifiche ed<br>estensioni facili ed efficienti alla code-base per<br>migliorare la sua utilità. Questo<br>richiede una documentazione<br>completa e chiara del codice<br>sorgente ed un design di tipo<br>modulare. | Alta     | Media      |
 
 
 ![[Pasted image 20250603135150.png]]

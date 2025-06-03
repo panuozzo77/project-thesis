@@ -1,0 +1,11 @@
+- ArgumentManager
+	- Si occupa di fornire l'aiuto per l'invocazione da CLI ed instrada, in base alle opzioni passate come parametro, la corretta esecuzione del codice atteso.
+- DatasetImporter(DatasetManager)
+	- Si occupa di caricare i dataset sul database nel formato uniformato, necessario per le ulteriori operazioni.
+- DatasetManager
+	- Fornisce le operazioni di lettura e scrittura sul database.
+- DatasetAugmenter(DatasetManager)
+	- Attraverso l'impiego di tecniche di ML/NLP/LLM e provider esterni effettua il retrieval di informazioni accessorie per i libri
+- RecommendingSystem(DatasetManager)
+	- Conserva lo stato dei libri posseduti dall'utente e ad ogni loro aggiornamento, se necessario (se vengono lasciate recensioni), aggiorna i generi predominanti dell'utente ed il numero di pagine medio che legge
+	- Fornisce nuove raccomandazioni all'utente, se richieste

@@ -7,7 +7,7 @@ Nello specifico, sarà proposto un sistema che **incentiva la lettura di generi 
 Contribuire attivamente allo sviluppo della **ricerca nel campo**, fornendo sia strumenti pratici che spunti teorici.
 ## Obiettivi e Criteri di Successo del Sistema
 - **Funzionalità Base del Tool e del Sistema di Raccomandazione:**
-    - **Sviluppo del Tool:** Il tool per i manutentori di dataset deve essere funzionante e capace di eseguire le operazioni principali per cui è stato concepito (caricamento dati, visualizzazione, modifica, estensione di metadati).
+    - **Sviluppo del Tool:** Il tool per i manutentori di dataset deve essere funzionante e capace di eseguire le operazioni principali per cui è stato concepito (caricamento dati, estensione di metadati).
 - **Miglioramento e Estensione dei Metadati Librari:**
     - **Struttura Aggiornata:** Definizione e implementazione di una struttura di metadati che sia considerata "al passo coi tempi".
     - **Applicazione Efficace:** Dimostrare come il tool permetta di "impreziosire" o "estendere" i metadati in modo concreto e utile per il sistema di raccomandazione o per future analisi.

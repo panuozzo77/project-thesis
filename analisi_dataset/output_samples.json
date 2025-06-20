@@ -1,0 +1,3028 @@
+{
+  _id: ObjectId('684ad24b7f51bdfc1f947c21'),
+  author_id: '4949741',
+  name: 'Nyssa Silvester',
+  ratings_count: '22',
+  text_reviews_count: '6'
+}
+{
+  _id: ObjectId('684ad24d7f51bdfc1f983073'),
+  author_id: '17131',
+  name: 'Arlette Elkaim-Sartre',
+  ratings_count: '13539',
+  text_reviews_count: '368'
+}
+{
+  _id: ObjectId('684ad24e7f51bdfc1f9a64a5'),
+  author_id: '15140562',
+  name: 'Owen Siegal',
+  ratings_count: '3',
+  text_reviews_count: '2'
+}
+{
+  _id: ObjectId('684ad24b7f51bdfc1f94de05'),
+  author_id: '3090627',
+  name: 'Jeff Lyons',
+  ratings_count: '43',
+  text_reviews_count: '4'
+}
+{
+  _id: ObjectId('684ad24f7f51bdfc1f9cd9ec'),
+  author_id: '31371',
+  name: 'Ronald A. Wells',
+  ratings_count: '78',
+  text_reviews_count: '14'
+}
+{
+  _id: ObjectId('684ad24f7f51bdfc1f9c84b4'),
+  author_id: '124166',
+  name: 'Nicholas W. Stockton',
+  ratings_count: '1',
+  text_reviews_count: '1'
+}
+{
+  _id: ObjectId('684ad24f7f51bdfc1f9c95e8'),
+  author_id: '9759489',
+  name: 'Michelle Marra',
+  ratings_count: '84',
+  text_reviews_count: '19'
+}
+{
+  _id: ObjectId('684ad24a7f51bdfc1f92d8e3'),
+  author_id: '22595',
+  name: 'Peter Carey',
+  ratings_count: '66937',
+  text_reviews_count: '5525'
+}
+{
+  _id: ObjectId('684ad24f7f51bdfc1f9c85f8'),
+  author_id: '5357195',
+  name: 'Bojana Zeljko-Lipovscak',
+  ratings_count: '94',
+  text_reviews_count: '2'
+}
+{
+  _id: ObjectId('684ad2507f51bdfc1f9d7162'),
+  author_id: '1165781',
+  name: 'Jason B. Ohler',
+  ratings_count: '66',
+  text_reviews_count: '6'
+}
+{
+  _id: ObjectId('684be25dd2d4a7d2f249c0b5'),
+  book_id: '1737767',
+  work_id: '1735326',
+  best_book_id: null,
+  authors: [
+    {
+      author_id: '797800',
+      role: ''
+    }
+  ],
+  series: [],
+  book_title: 'یادداشت های امیر اسدالله علم / جلد دوم',
+  title_without_series: 'یادداشت های امیر اسدالله علم / جلد دوم',
+  description: '`nwn: yddsht hy myr sdllh `lm / jld dwm z dstnwshth hy ; nwysndh: sdllh `lm; wyrysh w mqdmh: `lynqy `lykhny; chp dygr: thrn, ntshrt mzyr , ntshrt m`yn; chp wl 1372, chp dwm 1380; dr 464 S; shbkh: 9645643392; mwDw`: yddshthy rwznh myr sdllh `lm - srgdhshtnmh w khTrt systmdrn yrn; trykh yrn z 1320 t 1357, qrn 20 m\n' +
+    'jld dwm: yddshthy sl 1349 w 1351; ydsht hy `lm 1349; yddsht hy twDyHy 1351; yddsht hy `lm 1351',
+  publisher: 'ntshrt mzyr / ntshrt m`yn',
+  page_count: '464',
+  day: '',
+  month: '',
+  year: '2001',
+  popular_shelves: [
+    {
+      count: '38',
+      name: 'to-read'
+    },
+    {
+      count: '7',
+      name: 'currently-reading'
+    },
+    {
+      count: '1',
+      name: 'علم'
+    },
+    {
+      count: '1',
+      name: 'سیاست'
+    },
+    {
+      count: '1',
+      name: 'تاریخ'
+    },
+    {
+      count: '1',
+      name: 'memoir'
+    },
+    {
+      count: '1',
+      name: 'iranian'
+    },
+    {
+      count: '1',
+      name: 'diaries'
+    },
+    {
+      count: '1',
+      name: '20th-century'
+    },
+    {
+      count: '1',
+      name: 'پهلوی'
+    },
+    {
+      count: '1',
+      name: 'political'
+    },
+    {
+      count: '1',
+      name: 'read-farsi'
+    },
+    {
+      count: '1',
+      name: 'read-autobiography'
+    },
+    {
+      count: '1',
+      name: 'download'
+    },
+    {
+      count: '1',
+      name: 'historical'
+    },
+    {
+      count: '1',
+      name: 'diaries-memoir-biographies'
+    }
+  ],
+  average_rating: '4.15',
+  ratings_count: '26',
+  text_reviews_count: '2'
+}
+{
+  _id: ObjectId('684be28bd2d4a7d2f255e084'),
+  book_id: '11369593',
+  work_id: '1316297',
+  best_book_id: null,
+  authors: [
+    {
+      author_id: '3389',
+      role: ''
+    },
+    {
+      author_id: '5124407',
+      role: 'Translator'
+    },
+    {
+      author_id: '5124408',
+      role: 'Translator'
+    }
+  ],
+  series: [],
+  book_title: 'A Metade Sombria',
+  title_without_series: 'A Metade Sombria',
+  description: 'Thad Beaumont, o autor best-seller de tres livros de terror, adorava poder dizer que nao tem nada que ver com o horror de uma serie de assassinios monstruosos. Mas nao pode. Foi ele que o criou.',
+  publisher: 'Bertrand',
+  page_count: '536',
+  day: '',
+  month: '8',
+  year: '2010',
+  popular_shelves: [
+    {
+      count: '1094',
+      name: 'to-read'
+    },
+    {
+      count: '713',
+      name: 'currently-reading'
+    },
+    {
+      count: '334',
+      name: 'owned'
+    },
+    {
+      count: '245',
+      name: 'king'
+    },
+    {
+      count: '222',
+      name: 'thriller'
+    },
+    {
+      count: '195',
+      name: 'favorites'
+    },
+    {
+      count: '138',
+      name: 'fantasy'
+    },
+    {
+      count: '116',
+      name: 'owned-books'
+    },
+    {
+      count: '98',
+      name: 'supernatural'
+    },
+    {
+      count: '64',
+      name: 'mystery'
+    },
+    {
+      count: '59',
+      name: 'my-books'
+    },
+    {
+      count: '58',
+      name: 'horror-thriller'
+    },
+    {
+      count: '57',
+      name: 'stephen-king'
+    },
+    {
+      count: '55',
+      name: 'horror'
+    },
+    {
+      count: '54',
+      name: 'my-library'
+    },
+    {
+      count: '54',
+      name: 'suspense'
+    },
+    {
+      count: '54',
+      name: 'library'
+    },
+    {
+      count: '52',
+      name: 'king-stephen'
+    },
+    {
+      count: '46',
+      name: 'paranormal'
+    },
+    {
+      count: '45',
+      name: 'novels'
+    },
+    {
+      count: '43',
+      name: 'american'
+    },
+    {
+      count: '38',
+      name: 'the-king'
+    },
+    {
+      count: '36',
+      name: 'i-own'
+    },
+    {
+      count: '33',
+      name: 'own-it'
+    },
+    {
+      count: '32',
+      name: 'horror-suspense'
+    },
+    {
+      count: '30',
+      name: 'wish-list'
+    },
+    {
+      count: '27',
+      name: 'murder'
+    },
+    {
+      count: '27',
+      name: 'adult'
+    },
+    {
+      count: '26',
+      name: 'authors'
+    },
+    {
+      count: '26',
+      name: 'ebooks'
+    },
+    {
+      count: '26',
+      name: 'stephenking'
+    },
+    {
+      count: '25',
+      name: 'stories'
+    },
+    {
+      count: '25',
+      name: 'ebook'
+    },
+    {
+      count: '25',
+      name: 'paperback'
+    },
+    {
+      count: '25',
+      name: 'ghost'
+    },
+    {
+      count: '24',
+      name: 'kindle'
+    },
+    {
+      count: '24',
+      name: 'audiobook'
+    },
+    {
+      count: '24',
+      name: 'movie'
+    },
+    {
+      count: '23',
+      name: 'hardcover'
+    },
+    {
+      count: '22',
+      name: 'tie-in'
+    },
+    {
+      count: '22',
+      name: 'media'
+    },
+    {
+      count: '22',
+      name: 'tales'
+    },
+    {
+      count: '22',
+      name: 'home-library'
+    },
+    {
+      count: '21',
+      name: 'audiobooks'
+    },
+    {
+      count: '21',
+      name: 'have'
+    },
+    {
+      count: '20',
+      name: 's-king'
+    },
+    {
+      count: '20',
+      name: 'calibre'
+    },
+    {
+      count: '20',
+      name: 'stephen-king-read'
+    },
+    {
+      count: '20',
+      name: 'mystery-thriller'
+    },
+    {
+      count: '20',
+      name: 'books'
+    },
+    {
+      count: '20',
+      name: 'sci-fi'
+    },
+    {
+      count: '20',
+      name: 'novel'
+    },
+    {
+      count: '19',
+      name: 'tie-ins'
+    },
+    {
+      count: '19',
+      name: 'tv'
+    },
+    {
+      count: '19',
+      name: 'juvenile'
+    },
+    {
+      count: '19',
+      name: 'general'
+    },
+    {
+      count: '19',
+      name: 'stephen-king-to-read'
+    },
+    {
+      count: '19',
+      name: 'stephen-king-books'
+    },
+    {
+      count: '19',
+      name: 'sk'
+    },
+    {
+      count: '18',
+      name: 'fiction'
+    },
+    {
+      count: '18',
+      name: 'to-buy'
+    },
+    {
+      count: '18',
+      name: 'science-fiction'
+    },
+    {
+      count: '18',
+      name: 'adult-fiction'
+    },
+    {
+      count: '18',
+      name: 'thriller-horror'
+    },
+    {
+      count: '17',
+      name: 'audio'
+    },
+    {
+      count: '17',
+      name: 'fiction-horror'
+    },
+    {
+      count: '17',
+      name: 'unread'
+    },
+    {
+      count: '17',
+      name: 'horror-fiction'
+    },
+    {
+      count: '16',
+      name: 'bookshelf'
+    },
+    {
+      count: '16',
+      name: '20th-century'
+    },
+    {
+      count: '16',
+      name: 'steven-king'
+    },
+    {
+      count: '16',
+      name: 'contemporary'
+    },
+    {
+      count: '16',
+      name: 'general-fiction'
+    },
+    {
+      count: '15',
+      name: 'tbr'
+    },
+    {
+      count: '15',
+      name: 'dark'
+    },
+    {
+      count: '15',
+      name: 'favourites'
+    },
+    {
+      count: '15',
+      name: 'e-books'
+    },
+    {
+      count: '15',
+      name: 'crime'
+    },
+    {
+      count: '15',
+      name: 'horror-supernatural'
+    },
+    {
+      count: '15',
+      name: 'terror'
+    },
+    {
+      count: '15',
+      name: 'scary'
+    },
+    {
+      count: '14',
+      name: 'audio-book'
+    },
+    {
+      count: '14',
+      name: 'finished'
+    },
+    {
+      count: '14',
+      name: 'collection'
+    },
+    {
+      count: '14',
+      name: 'books-owned'
+    },
+    {
+      count: '14',
+      name: 'suspense-thriller'
+    },
+    {
+      count: '13',
+      name: 'e-book'
+    },
+    {
+      count: '13',
+      name: 'author-stephen-king'
+    },
+    {
+      count: '13',
+      name: 'personal-library'
+    },
+    {
+      count: '13',
+      name: 'my-collection'
+    },
+    {
+      count: '13',
+      name: 'own-to-read'
+    },
+    {
+      count: '13',
+      name: 'thrillers'
+    },
+    {
+      count: '13',
+      name: 'creepy'
+    },
+    {
+      count: '12',
+      name: 'owned-but-not-read'
+    },
+    {
+      count: '12',
+      name: 'abandoned'
+    },
+    {
+      count: '12',
+      name: 'hardback'
+    },
+    {
+      count: '12',
+      name: 'mine'
+    },
+    {
+      count: '11',
+      name: 'stephen-king-collection'
+    },
+    {
+      count: '11',
+      name: 'horreur'
+    },
+    {
+      count: '11',
+      name: 'sci-fi-fantasy'
+    }
+  ],
+  average_rating: '3.74',
+  ratings_count: '44',
+  text_reviews_count: '2'
+}
+{
+  _id: ObjectId('684be230d2d4a7d2f23e6b28'),
+  book_id: '35225496',
+  work_id: '56569684',
+  best_book_id: null,
+  authors: [
+    {
+      author_id: '81466',
+      role: ''
+    }
+  ],
+  series: [],
+  book_title: 'A Casa do Largo Puff',
+  title_without_series: 'A Casa do Largo Puff',
+  description: '',
+  publisher: 'Relogio de Agua',
+  page_count: '176',
+  day: '',
+  month: '4',
+  year: '2017',
+  popular_shelves: [
+    {
+      count: '1',
+      name: 'enchanting-wondrous-and-magical-lo'
+    },
+    {
+      count: '1',
+      name: 'childhood-and-youth-books'
+    },
+    {
+      count: '1',
+      name: 'biography'
+    },
+    {
+      count: '1',
+      name: 'beloved-pets'
+    }
+  ],
+  average_rating: '4.00',
+  ratings_count: '1',
+  text_reviews_count: '1'
+}
+{
+  _id: ObjectId('684be268d2d4a7d2f24cce84'),
+  book_id: '2025135',
+  work_id: '708860',
+  best_book_id: null,
+  authors: [
+    {
+      author_id: '403',
+      role: ''
+    },
+    {
+      author_id: '229349',
+      role: 'Illustrations'
+    }
+  ],
+  series: [
+    '151910'
+  ],
+  book_title: 'Ramona and Her Father',
+  title_without_series: 'Ramona and Her Father',
+  description: "Ramona Quimby is a character intimately known by Beverly Cleary readers. In this story of Ramona's year in second grade they will come to know Mr. Quimby equally well. As it opens he loses his job without warning, and Ramona's seven-year-old view of this all-too-frequently family crisis rings every change of mood from tears to laughter.Not surprisingly, Ramona takes an active hand in the problems that develop. She practices television commercials in order to earn a million dollars, but only succeeds in insulting her teacher when she delivers a disparaging line about wrinkles in pantyhose. She grows concerned that Mr. Quimby's smoking will turn his lungs black launches an energetic No Smoking campaign. Sometimes Mr. Quimby's temper frays under the strain of his uncertain future and Ramona's attentions, but he proves as resilient as his daughter and the Quimbys cope better than they realize.\n" +
+    'Once again children will be both entertained and comforted by the understanding of their triumphs and tribulations that they find in this wise, funny book."Another warm, funny, pithy story about Ramona, now in second grade. Daddy loses his job and there are resultant strains on family finances and relationships, but life goes on. In any household containing Ramona it could hardly do otherwise."--Booklist',
+  publisher: 'HarperCollins',
+  page_count: '192',
+  day: '1',
+  month: '8',
+  year: '1977',
+  popular_shelves: [
+    {
+      count: '3079',
+      name: 'to-read'
+    },
+    {
+      count: '314',
+      name: 'childrens'
+    },
+    {
+      count: '197',
+      name: 'children'
+    },
+    {
+      count: '196',
+      name: 'fiction'
+    },
+    {
+      count: '165',
+      name: 'children-s-books'
+    },
+    {
+      count: '152',
+      name: 'children-s'
+    },
+    {
+      count: '151',
+      name: 'childhood'
+    },
+    {
+      count: '119',
+      name: 'kids'
+    },
+    {
+      count: '92',
+      name: 'childhood-favorites'
+    },
+    {
+      count: '84',
+      name: 'currently-reading'
+    },
+    {
+      count: '77',
+      name: 'series'
+    },
+    {
+      count: '75',
+      name: 'realistic-fiction'
+    },
+    {
+      count: '71',
+      name: 'favorites'
+    },
+    {
+      count: '70',
+      name: 'newbery'
+    },
+    {
+      count: '63',
+      name: 'beverly-cleary'
+    },
+    {
+      count: '63',
+      name: 'kids-books'
+    },
+    {
+      count: '61',
+      name: 'middle-grade'
+    },
+    {
+      count: '60',
+      name: 'classics'
+    },
+    {
+      count: '57',
+      name: 'childrens-books'
+    },
+    {
+      count: '56',
+      name: 'chapter-books'
+    },
+    {
+      count: '55',
+      name: 'juvenile'
+    },
+    {
+      count: '53',
+      name: 'owned'
+    },
+    {
+      count: '52',
+      name: 'books-i-own'
+    },
+    {
+      count: '49',
+      name: 'childhood-books'
+    },
+    {
+      count: '49',
+      name: 'newbery-honor'
+    },
+    {
+      count: '47',
+      name: 'juvenile-fiction'
+    },
+    {
+      count: '46',
+      name: 'young-adult'
+    },
+    {
+      count: '41',
+      name: 'humor'
+    },
+    {
+      count: '40',
+      name: 'default'
+    },
+    {
+      count: '32',
+      name: 'family'
+    },
+    {
+      count: '32',
+      name: 'children-s-lit'
+    },
+    {
+      count: '31',
+      name: 'children-s-literature'
+    },
+    {
+      count: '28',
+      name: 'ya'
+    },
+    {
+      count: '28',
+      name: 'childhood-reads'
+    },
+    {
+      count: '25',
+      name: 'ramona'
+    },
+    {
+      count: '24',
+      name: 'read-aloud'
+    },
+    {
+      count: '24',
+      name: 'youth'
+    },
+    {
+      count: '23',
+      name: 'kid-lit'
+    },
+    {
+      count: '22',
+      name: 'audiobook'
+    },
+    {
+      count: '22',
+      name: 'read-as-a-kid'
+    },
+    {
+      count: '20',
+      name: 'kid-books'
+    },
+    {
+      count: '18',
+      name: 'childrens-lit'
+    },
+    {
+      count: '17',
+      name: 'owned-books'
+    },
+    {
+      count: '17',
+      name: 'my-library'
+    },
+    {
+      count: '17',
+      name: 'children-books'
+    },
+    {
+      count: '16',
+      name: 'classroom-library'
+    },
+    {
+      count: '16',
+      name: 'books-from-childhood'
+    },
+    {
+      count: '16',
+      name: 'elementary-school'
+    },
+    {
+      count: '16',
+      name: 'books-i-read-as-a-kid'
+    },
+    {
+      count: '16',
+      name: 'childrens-fiction'
+    },
+    {
+      count: '16',
+      name: 'children-s-fiction'
+    },
+    {
+      count: '15',
+      name: 'audiobooks'
+    },
+    {
+      count: '15',
+      name: 'funny'
+    },
+    {
+      count: '15',
+      name: 'library'
+    },
+    {
+      count: '15',
+      name: 'newberry'
+    },
+    {
+      count: '15',
+      name: 'books-from-my-childhood'
+    },
+    {
+      count: '15',
+      name: 'own-it'
+    },
+    {
+      count: '14',
+      name: 'read-alouds'
+    },
+    {
+      count: '14',
+      name: 'audio'
+    },
+    {
+      count: '13',
+      name: 'my-books'
+    },
+    {
+      count: '13',
+      name: 'read-as-a-child'
+    },
+    {
+      count: '12',
+      name: 'school'
+    },
+    {
+      count: '12',
+      name: 'childrens-literature'
+    },
+    {
+      count: '12',
+      name: 'childhood-faves'
+    },
+    {
+      count: '11',
+      name: 'read-in-2016'
+    },
+    {
+      count: '11',
+      name: 'children-s-chapter-books'
+    },
+    {
+      count: '11',
+      name: 'young-readers'
+    },
+    {
+      count: '11',
+      name: 'read-to-kids'
+    },
+    {
+      count: '11',
+      name: 're-read'
+    },
+    {
+      count: '11',
+      name: 'realistic'
+    },
+    {
+      count: '11',
+      name: 'childhood-favorite'
+    },
+    {
+      count: '10',
+      name: 'kid-s-books'
+    },
+    {
+      count: '10',
+      name: 'chapter-book'
+    },
+    {
+      count: '10',
+      name: 'classic'
+    },
+    {
+      count: '10',
+      name: 'middle-grades'
+    },
+    {
+      count: '10',
+      name: 'kids-chapter-books'
+    },
+    {
+      count: '10',
+      name: 'childrens-ya'
+    },
+    {
+      count: '10',
+      name: 'elementary'
+    },
+    {
+      count: '10',
+      name: 'contemporary'
+    },
+    {
+      count: '9',
+      name: 'newbery-honors'
+    },
+    {
+      count: '9',
+      name: 'newbery-books'
+    },
+    {
+      count: '9',
+      name: 'my-childhood'
+    },
+    {
+      count: '9',
+      name: 'ramona-quimby'
+    },
+    {
+      count: '9',
+      name: 'for-kids'
+    },
+    {
+      count: '9',
+      name: 'audio-books'
+    },
+    {
+      count: '9',
+      name: 'novels'
+    },
+    {
+      count: '9',
+      name: 'childrensbooks'
+    },
+    {
+      count: '8',
+      name: 'nostalgia'
+    },
+    {
+      count: '8',
+      name: 'kidlit'
+    },
+    {
+      count: '8',
+      name: 'childrens-chapter'
+    },
+    {
+      count: '8',
+      name: 'children-s-book'
+    },
+    {
+      count: '8',
+      name: 'children-fiction'
+    },
+    {
+      count: '8',
+      name: 'from-my-childhood'
+    },
+    {
+      count: '8',
+      name: 'read-with-the-kids'
+    },
+    {
+      count: '7',
+      name: '20th-century'
+    },
+    {
+      count: '7',
+      name: 'i-own'
+    },
+    {
+      count: '7',
+      name: 'kiddos'
+    },
+    {
+      count: '7',
+      name: 'newbery-award'
+    },
+    {
+      count: '7',
+      name: 'children-young-adult'
+    },
+    {
+      count: '7',
+      name: 'books-i-read-as-a-child'
+    }
+  ],
+  average_rating: '4.02',
+  ratings_count: '114',
+  text_reviews_count: '24'
+}
+{
+  _id: ObjectId('684be225d2d4a7d2f23bbc6a'),
+  book_id: '11716240',
+  work_id: '6553076',
+  best_book_id: null,
+  authors: [
+    {
+      author_id: '5784335',
+      role: ''
+    }
+  ],
+  series: [
+    '335155'
+  ],
+  book_title: 'El Selyucida',
+  title_without_series: 'El Selyucida',
+  description: '',
+  publisher: 'Norma Editorial',
+  page_count: '48',
+  day: '',
+  month: '',
+  year: '1999',
+  popular_shelves: [
+    {
+      count: '6',
+      name: 'to-read'
+    },
+    {
+      count: '3',
+      name: 'comics'
+    },
+    {
+      count: '2',
+      name: 'bd'
+    },
+    {
+      count: '1',
+      name: '_france-and-belgium'
+    },
+    {
+      count: '1',
+      name: 'tebeos-bande-dessin-e'
+    },
+    {
+      count: '1',
+      name: 'tebeos'
+    },
+    {
+      count: '1',
+      name: 'my-library'
+    },
+    {
+      count: '1',
+      name: 'historical-fiction'
+    },
+    {
+      count: '1',
+      name: 'graphic-novels'
+    },
+    {
+      count: '1',
+      name: 'medieval'
+    },
+    {
+      count: '1',
+      name: 'stripboeken'
+    },
+    {
+      count: '1',
+      name: 'bieb'
+    },
+    {
+      count: '1',
+      name: 'bandes-dessinees'
+    },
+    {
+      count: '1',
+      name: 'owned-books'
+    },
+    {
+      count: '1',
+      name: 'balloonstrip'
+    },
+    {
+      count: '1',
+      name: 'storia'
+    },
+    {
+      count: '1',
+      name: 'digital'
+    },
+    {
+      count: '1',
+      name: 'comic-novel'
+    },
+    {
+      count: '1',
+      name: 'archivi'
+    }
+  ],
+  average_rating: '4.09',
+  ratings_count: '20',
+  text_reviews_count: '1'
+}
+{
+  _id: ObjectId('684be250d2d4a7d2f2466d06'),
+  book_id: '34340305',
+  work_id: '55412583',
+  best_book_id: null,
+  authors: [
+    {
+      author_id: '7969503',
+      role: ''
+    },
+    {
+      author_id: '8394999',
+      role: ''
+    }
+  ],
+  series: [
+    '1032522'
+  ],
+  book_title: 'Adding Fuel To The Flames (Eternal Flames Maddox, #1)',
+  title_without_series: 'Adding Fuel To The Flames (Eternal Flames Maddox, #1)',
+  description: '',
+  publisher: '',
+  page_count: '',
+  day: '',
+  month: '',
+  year: '',
+  popular_shelves: [
+    {
+      count: '11',
+      name: 'to-read'
+    },
+    {
+      count: '5',
+      name: 'currently-reading'
+    },
+    {
+      count: '3',
+      name: 'shifter'
+    },
+    {
+      count: '3',
+      name: 'menage'
+    },
+    {
+      count: '2',
+      name: 'm-m'
+    },
+    {
+      count: '2',
+      name: 'm-m-m'
+    },
+    {
+      count: '1',
+      name: 'christmas-wishlist'
+    },
+    {
+      count: '1',
+      name: 'kindle'
+    },
+    {
+      count: '1',
+      name: 'ebooks-owned'
+    },
+    {
+      count: '1',
+      name: 'scifi'
+    },
+    {
+      count: '1',
+      name: 'prn-uf-fantasy-timetravel'
+    },
+    {
+      count: '1',
+      name: 'mm-romance'
+    },
+    {
+      count: '1',
+      name: 'menage-3-or-more'
+    },
+    {
+      count: '1',
+      name: 'to-read-next'
+    },
+    {
+      count: '1',
+      name: 'biblioteca'
+    },
+    {
+      count: '1',
+      name: 'inmortales'
+    },
+    {
+      count: '1',
+      name: 'next-in-queue'
+    },
+    {
+      count: '1',
+      name: 'self-published'
+    },
+    {
+      count: '1',
+      name: 'mm-purchased-started'
+    },
+    {
+      count: '1',
+      name: 'm-preg'
+    },
+    {
+      count: '1',
+      name: 'm-m-paranormal'
+    },
+    {
+      count: '1',
+      name: '4-star-read'
+    },
+    {
+      count: '1',
+      name: 'only-for-a-challenge'
+    },
+    {
+      count: '1',
+      name: 'own-tbr'
+    },
+    {
+      count: '1',
+      name: 'tbr'
+    },
+    {
+      count: '1',
+      name: 'm-m-books-i-own'
+    },
+    {
+      count: '1',
+      name: 'dnf'
+    },
+    {
+      count: '1',
+      name: '01-books'
+    },
+    {
+      count: '1',
+      name: 'science-fiction'
+    },
+    {
+      count: '1',
+      name: 'romance'
+    },
+    {
+      count: '1',
+      name: 'fiction'
+    },
+    {
+      count: '1',
+      name: 'mpreg'
+    },
+    {
+      count: '1',
+      name: 'mmm-or-more'
+    },
+    {
+      count: '1',
+      name: 'mm-shifter'
+    },
+    {
+      count: '1',
+      name: 'mm-royalty'
+    },
+    {
+      count: '1',
+      name: 'mm-dragon'
+    },
+    {
+      count: '1',
+      name: '2-nah'
+    },
+    {
+      count: '1',
+      name: 'pnr'
+    },
+    {
+      count: '1',
+      name: '100-200_pgs'
+    }
+  ],
+  average_rating: '3.84',
+  ratings_count: '55',
+  text_reviews_count: '7'
+}
+{
+  _id: ObjectId('684be265d2d4a7d2f24bedf8'),
+  book_id: '20497584',
+  work_id: '33866956',
+  best_book_id: null,
+  authors: [
+    {
+      author_id: '6570621',
+      role: ''
+    }
+  ],
+  series: [],
+  book_title: 'Anatomi Rupert',
+  title_without_series: 'Anatomi Rupert',
+  description: 'Cerita berkisar di sebuah kampung yang bernama Rupert. Kampung ini terletak di negeri Sabah. Ia mengisahkan tentang Pak Ali, tuan punya kedai gunting rambut. Perniagaan gunting rambutnya semakin merosot hari demi hari. Isteri Pak Ali selalu mendesak Pak Ali agar Pak Ali berhenti saja daripada terus menjadi tukang gunting rambut.\n' +
+    'Tok Mun pula ialah seorang lelaki tua yang sangat uzur. Dia terpaksa menggunakan tongkat dan alat bantu pendengaran serta kaca mata dalam menjalani hidup sehariannya. Walaupun sudah lanjut usia, Tok Mun berhasrat untuk bertanding lagi dalam pilihan raya, dan sekiranya dia menang, dia bercita-cita untuk menukarkan nama Rupert itu kepada nama yang lebih bercirikan tempatan. Bagi Tok Mun, nama Rupert sangat berbau penjajah, Tok Mun pernah kalah teruk dalam pilihan raya sebelum ini.\n' +
+    'Konflik politik yang bermatlamatkan persamaan ekonomi.',
+  publisher: 'Institut Terjemahan & Buku Malaysia',
+  page_count: '179',
+  day: '',
+  month: '',
+  year: '2013',
+  popular_shelves: [
+    {
+      count: '12',
+      name: 'to-read'
+    },
+    {
+      count: '2',
+      name: 'itbm'
+    },
+    {
+      count: '1',
+      name: 'malay-sastera'
+    },
+    {
+      count: '1',
+      name: 'waiting-list'
+    },
+    {
+      count: '1',
+      name: 'my-books'
+    },
+    {
+      count: '1',
+      name: 'literature'
+    },
+    {
+      count: '1',
+      name: 'kumpulan-cerpen'
+    },
+    {
+      count: '1',
+      name: 'buku-melayu'
+    },
+    {
+      count: '1',
+      name: 'koleksi-dalam-simpanan'
+    },
+    {
+      count: '1',
+      name: 'senarai-dikehendaki'
+    },
+    {
+      count: '1',
+      name: 'novel-melayu'
+    },
+    {
+      count: '1',
+      name: 'buku-2014'
+    },
+    {
+      count: '1',
+      name: 'rozy-2014'
+    },
+    {
+      count: '1',
+      name: 'malay-novel'
+    },
+    {
+      count: '1',
+      name: 'currently-reading'
+    }
+  ],
+  average_rating: '3.87',
+  ratings_count: '15',
+  text_reviews_count: '4'
+}
+{
+  _id: ObjectId('684be235d2d4a7d2f23fc017'),
+  book_id: '26257355',
+  work_id: '46203505',
+  best_book_id: null,
+  authors: [
+    {
+      author_id: '14249578',
+      role: ''
+    }
+  ],
+  series: [],
+  book_title: 'Water for Alien Were-Dinos:',
+  title_without_series: 'Water for Alien Were-Dinos:',
+  description: 'My name is Alf-Khalan. I did not set out to become the greatest lover of Earth women that ever lived; I simply needed some water.\n' +
+    'This is my story.\n' +
+    '*****\n' +
+    "My name is Jillian. I didn't intend to have the longest and most intense orgasm ever in order to save everyone on Earth. But, that's what happened.\n" +
+    'This is my story.\n' +
+    "And so begins an epic tale of star-crossed lovers, planet-saving sex, obscene alien-dino/human relations, and something delicious that's not normally associated with deliciousness.\n" +
+    'Is $0.99 too much to pay for this ridiculousness? Absolutely.\n' +
+    "So, let's make it money well spent--all proceeds from sales of this book will be donated to RAINN (https://rainn.org/), the Rape, Abuse, & Incest National Network, the largest anti-sexual violence organization in the United States.\n" +
+    "It's a guilty pleasure for a great cause. Go ahead--indulge. No one will know.",
+  publisher: '',
+  page_count: '',
+  day: '',
+  month: '',
+  year: '',
+  popular_shelves: [
+    {
+      count: '99',
+      name: 'to-read'
+    },
+    {
+      count: '8',
+      name: 'erotica'
+    },
+    {
+      count: '8',
+      name: 'sci-fi'
+    },
+    {
+      count: '7',
+      name: 'short-stories'
+    },
+    {
+      count: '6',
+      name: 'read-2015'
+    },
+    {
+      count: '6',
+      name: 'aliens'
+    },
+    {
+      count: '5',
+      name: 'read-in-2015'
+    },
+    {
+      count: '4',
+      name: 'kindle'
+    },
+    {
+      count: '3',
+      name: 'science-fiction'
+    },
+    {
+      count: '3',
+      name: 'kindle-unlimited'
+    },
+    {
+      count: '3',
+      name: 'wtf'
+    },
+    {
+      count: '3',
+      name: 'reviewed'
+    },
+    {
+      count: '3',
+      name: 'ebooks'
+    },
+    {
+      count: '2',
+      name: 'romance'
+    },
+    {
+      count: '1',
+      name: 'mindless-fun'
+    },
+    {
+      count: '1',
+      name: 'did-not-finish'
+    },
+    {
+      count: '1',
+      name: 'type-aliens-and-the-like'
+    },
+    {
+      count: '1',
+      name: 'humour-comedy'
+    },
+    {
+      count: '1',
+      name: 'erotica-or-erotic-romance'
+    },
+    {
+      count: '1',
+      name: 'curious-about-ii'
+    },
+    {
+      count: '1',
+      name: 'syfy-fiction'
+    },
+    {
+      count: '1',
+      name: 'romance-suspense'
+    },
+    {
+      count: '1',
+      name: 'hot-erotica-sex'
+    },
+    {
+      count: '1',
+      name: 'trash'
+    },
+    {
+      count: '1',
+      name: 'scifi-fantasy-romance'
+    },
+    {
+      count: '1',
+      name: 'aliens-need-love-too'
+    },
+    {
+      count: '1',
+      name: 'paranormal'
+    },
+    {
+      count: '1',
+      name: 'short-story'
+    },
+    {
+      count: '1',
+      name: 'own-kindle'
+    },
+    {
+      count: '1',
+      name: 'own-but-not-yet-read'
+    },
+    {
+      count: '1',
+      name: 'kindle-tbr'
+    },
+    {
+      count: '1',
+      name: 'adult-lit'
+    },
+    {
+      count: '1',
+      name: 'a-tbr-shortlist'
+    },
+    {
+      count: '1',
+      name: '2010s'
+    },
+    {
+      count: '1',
+      name: 'tbr-under-two-quid'
+    },
+    {
+      count: '1',
+      name: 'tbr-kindle-unlimited'
+    },
+    {
+      count: '1',
+      name: 'm-m'
+    },
+    {
+      count: '1',
+      name: 'kinky'
+    },
+    {
+      count: '1',
+      name: 'kink_tentacles'
+    },
+    {
+      count: '1',
+      name: 'not-in-my-shelves-lets-cry'
+    },
+    {
+      count: '1',
+      name: 'tingle'
+    },
+    {
+      count: '1',
+      name: 'review'
+    },
+    {
+      count: '1',
+      name: 'what-s-in-a-name'
+    },
+    {
+      count: '1',
+      name: 'what-just-happened'
+    },
+    {
+      count: '1',
+      name: 'tidbits'
+    },
+    {
+      count: '1',
+      name: 'let-s-call-it-research'
+    },
+    {
+      count: '1',
+      name: 'fantasy-talk-nerdy-to-me'
+    },
+    {
+      count: '1',
+      name: 'because-this-is-a-thing'
+    },
+    {
+      count: '1',
+      name: 'read-it-in-2017'
+    },
+    {
+      count: '1',
+      name: 'i-can-never-unread-this'
+    },
+    {
+      count: '1',
+      name: 'ridiculous-erotica'
+    },
+    {
+      count: '1',
+      name: 'smut'
+    },
+    {
+      count: '1',
+      name: 're-read'
+    },
+    {
+      count: '1',
+      name: 'hell-to-the-mf-yes'
+    },
+    {
+      count: '1',
+      name: 'gimme-gimme-gimme'
+    },
+    {
+      count: '1',
+      name: 'recommended'
+    },
+    {
+      count: '1',
+      name: 'why'
+    },
+    {
+      count: '1',
+      name: '2016-shelf'
+    },
+    {
+      count: '1',
+      name: '2016-read'
+    },
+    {
+      count: '1',
+      name: 'i-listened-to-sean-big-mistake'
+    },
+    {
+      count: '1',
+      name: 'read-in-english'
+    },
+    {
+      count: '1',
+      name: 'porn-stache'
+    },
+    {
+      count: '1',
+      name: 'mystery-appendage'
+    },
+    {
+      count: '1',
+      name: 'my-precious'
+    },
+    {
+      count: '1',
+      name: 'my-friends-write-books'
+    },
+    {
+      count: '1',
+      name: 'e-books'
+    },
+    {
+      count: '1',
+      name: '2016-reads'
+    },
+    {
+      count: '1',
+      name: 'ocd-made-me-do-it'
+    },
+    {
+      count: '1',
+      name: 'stand-alone'
+    },
+    {
+      count: '1',
+      name: 'interesting-reviews'
+    },
+    {
+      count: '1',
+      name: 'kindle-owned'
+    },
+    {
+      count: '1',
+      name: 'alien-romance'
+    },
+    {
+      count: '1',
+      name: 'received-from-author'
+    },
+    {
+      count: '1',
+      name: 'r2r'
+    },
+    {
+      count: '1',
+      name: 'own-and-read'
+    },
+    {
+      count: '1',
+      name: 'love'
+    },
+    {
+      count: '1',
+      name: 'favorites'
+    },
+    {
+      count: '1',
+      name: 'shorties-or-under100pgs'
+    },
+    {
+      count: '1',
+      name: 'monster-porn'
+    },
+    {
+      count: '1',
+      name: 'erotica-aka-porn'
+    },
+    {
+      count: '1',
+      name: 'borrowed-ku'
+    },
+    {
+      count: '1',
+      name: 'when-youre-strange'
+    },
+    {
+      count: '1',
+      name: 'romantico-love-sex'
+    },
+    {
+      count: '1',
+      name: 'own-it'
+    },
+    {
+      count: '1',
+      name: 'adult'
+    },
+    {
+      count: '1',
+      name: '2016-publications'
+    },
+    {
+      count: '1',
+      name: 'there-are-no-words'
+    },
+    {
+      count: '1',
+      name: 'kindle-i-own'
+    },
+    {
+      count: '1',
+      name: 'crazy-shit'
+    },
+    {
+      count: '1',
+      name: 'fantasy-sci-fi'
+    },
+    {
+      count: '1',
+      name: 'interested'
+    },
+    {
+      count: '1',
+      name: 'sci-fi-fantasy'
+    },
+    {
+      count: '1',
+      name: 'fantasy'
+    },
+    {
+      count: '1',
+      name: 'fiction'
+    },
+    {
+      count: '1',
+      name: 'monsters-are-dirrrrrrrty'
+    },
+    {
+      count: '1',
+      name: 'books-are-dirrrrrrty'
+    },
+    {
+      count: '1',
+      name: 'naughty'
+    },
+    {
+      count: '1',
+      name: 'friend-recommended'
+    },
+    {
+      count: '1',
+      name: 'shorts-and-novellas'
+    },
+    {
+      count: '1',
+      name: 'books-read-in-2015'
+    }
+  ],
+  average_rating: '4.28',
+  ratings_count: '5',
+  text_reviews_count: '4'
+}
+{
+  _id: ObjectId('684be299d2d4a7d2f2596d6a'),
+  book_id: '34913737',
+  work_id: '56176625',
+  best_book_id: null,
+  authors: [
+    {
+      author_id: '7116446',
+      role: ''
+    }
+  ],
+  series: [
+    '1110540'
+  ],
+  book_title: 'The King of Bones and Ashes (Witches of New Orleans #1)',
+  title_without_series: 'The King of Bones and Ashes (Witches of New Orleans #1)',
+  description: "From the bestselling author of the Witching Savannah series comes the first book in a fascinating trilogy following the quest of a young witch to uncover her family's terrifying secret history...\n" +
+    "Magic is seeping out of the world, leaving the witches who've relied on it for countless centuries increasingly hopeless. While some see an inevitable end of their era, others are courting madness--willing to sacrifice former allies, friends, and family to retain the power they covet. While the other witches watch their reality unravel, young Alice Marin is using magic's waning days to delve into the mystery of numerous disappearances in the occult circles of New Orleans. Alice disappeared once, too--caged in an asylum by blood relatives. Recently freed, she fears her family may be more involved with the growing crisis than she ever dared imagine.\n" +
+    "Yet the more she seeks the truth about her family's troubled history, the more she realizes her already-fragile psyche may be at risk. Discovering the cause of the vanishings, though, could be the only way to escape her mother's reach while determining the future of all witches.",
+  publisher: '',
+  page_count: '320',
+  day: '',
+  month: '',
+  year: '',
+  popular_shelves: [
+    {
+      count: '123',
+      name: 'to-read'
+    },
+    {
+      count: '8',
+      name: 'netgalley'
+    },
+    {
+      count: '7',
+      name: 'currently-reading'
+    },
+    {
+      count: '6',
+      name: 'fantasy'
+    },
+    {
+      count: '4',
+      name: 'arc'
+    },
+    {
+      count: '2',
+      name: 'kindle'
+    },
+    {
+      count: '2',
+      name: 'no-cover-yet-ps'
+    },
+    {
+      count: '1',
+      name: 'read-in-2017'
+    },
+    {
+      count: '1',
+      name: 'did-not-finish'
+    },
+    {
+      count: '1',
+      name: 'giveaway'
+    },
+    {
+      count: '1',
+      name: 'for-review'
+    },
+    {
+      count: '1',
+      name: 'e-book'
+    },
+    {
+      count: '1',
+      name: 'work'
+    },
+    {
+      count: '1',
+      name: 'netgalley-arcs'
+    },
+    {
+      count: '1',
+      name: 'gca-2018'
+    },
+    {
+      count: '1',
+      name: 'owned-ebooks-unread'
+    },
+    {
+      count: '1',
+      name: '2017-novel'
+    },
+    {
+      count: '1',
+      name: 'preferred-publisher'
+    },
+    {
+      count: '1',
+      name: 'ng'
+    },
+    {
+      count: '1',
+      name: 'fantasy-sci-fi'
+    },
+    {
+      count: '1',
+      name: '47north'
+    },
+    {
+      count: '1',
+      name: '2018-01-january'
+    },
+    {
+      count: '1',
+      name: '2017-12-december'
+    },
+    {
+      count: '1',
+      name: '2017-11-series-challenge'
+    },
+    {
+      count: '1',
+      name: '2017-11-november'
+    },
+    {
+      count: '1',
+      name: 'tbr-fic'
+    },
+    {
+      count: '1',
+      name: 'net-galley'
+    },
+    {
+      count: '1',
+      name: 'arc-first-reads'
+    },
+    {
+      count: '1',
+      name: '21th-century'
+    },
+    {
+      count: '1',
+      name: 'kindle-reading-soon'
+    },
+    {
+      count: '1',
+      name: 'science-fiction'
+    },
+    {
+      count: '1',
+      name: 'ebook'
+    },
+    {
+      count: '1',
+      name: 'arc-approved'
+    },
+    {
+      count: '1',
+      name: 'series-to-start'
+    },
+    {
+      count: '1',
+      name: 'help-me-decide-arc'
+    },
+    {
+      count: '1',
+      name: 'book-shelf'
+    },
+    {
+      count: '1',
+      name: 'to-read-ebook'
+    },
+    {
+      count: '1',
+      name: 'have-but-haven-t-read'
+    },
+    {
+      count: '1',
+      name: 'arcs-to-read'
+    },
+    {
+      count: '1',
+      name: 'bookmattic-s-wishlist'
+    },
+    {
+      count: '1',
+      name: '2018'
+    },
+    {
+      count: '1',
+      name: 'paranormal'
+    },
+    {
+      count: '1',
+      name: 'temp'
+    },
+    {
+      count: '1',
+      name: 'witchiness'
+    },
+    {
+      count: '1',
+      name: 'netgalley-2'
+    },
+    {
+      count: '1',
+      name: 'can-t-wait-to-read'
+    },
+    {
+      count: '1',
+      name: 'on-deck'
+    },
+    {
+      count: '1',
+      name: 'fc-on-list'
+    },
+    {
+      count: '1',
+      name: 'fc-list-vote'
+    },
+    {
+      count: '1',
+      name: 'want-to-read-net-galley-arc'
+    },
+    {
+      count: '1',
+      name: 'want-to-read-fantasy'
+    },
+    {
+      count: '1',
+      name: 'netgalley-reviews'
+    },
+    {
+      count: '1',
+      name: 'netgalley-arc'
+    },
+    {
+      count: '1',
+      name: 'paranormal-supernatural'
+    },
+    {
+      count: '1',
+      name: 'ntf-fiction'
+    },
+    {
+      count: '1',
+      name: 'not-published-yet'
+    },
+    {
+      count: '1',
+      name: 'mystery'
+    },
+    {
+      count: '1',
+      name: 'tbr-owns'
+    },
+    {
+      count: '1',
+      name: 'advance-copies'
+    },
+    {
+      count: '1',
+      name: 'read-2017'
+    },
+    {
+      count: '1',
+      name: 'january-galleys'
+    },
+    {
+      count: '1',
+      name: 'galleys'
+    },
+    {
+      count: '1',
+      name: 'supernatural-fantasy'
+    },
+    {
+      count: '1',
+      name: 'review-copies'
+    },
+    {
+      count: '1',
+      name: 'e-books'
+    },
+    {
+      count: '1',
+      name: 'own-unread'
+    },
+    {
+      count: '1',
+      name: 'arc-review'
+    },
+    {
+      count: '1',
+      name: 'netgalley2017'
+    },
+    {
+      count: '1',
+      name: 'not-released-yet'
+    },
+    {
+      count: '1',
+      name: 'fiction'
+    },
+    {
+      count: '1',
+      name: 'jan-arcs-to-review'
+    },
+    {
+      count: '1',
+      name: 'arcs-to-review'
+    },
+    {
+      count: '1',
+      name: 'no-cover-ps'
+    },
+    {
+      count: '1',
+      name: 'forthcoming'
+    },
+    {
+      count: '1',
+      name: 'out18'
+    },
+    {
+      count: '1',
+      name: 'kindle-books'
+    }
+  ],
+  average_rating: '3.29',
+  ratings_count: '15',
+  text_reviews_count: '16'
+}
+{
+  _id: ObjectId('684be29bd2d4a7d2f259d015'),
+  book_id: '15703678',
+  work_id: '21365189',
+  best_book_id: null,
+  authors: [
+    {
+      author_id: '6422139',
+      role: ''
+    }
+  ],
+  series: [
+    '405095'
+  ],
+  book_title: 'A Gathering of Storms (The Ballad of Mary and Cyrus, #1)',
+  title_without_series: 'A Gathering of Storms (The Ballad of Mary and Cyrus, #1)',
+  description: '"Where is she?" he asked, and Mother Nature gave his words emphasis as lightning lit up the windows and cast tree limb shadows across our faces. We were two pale figures in a blue sea, and we swam through shadows.\n' +
+    "I knew where he could find her, always in the same place, and I believe he knew I knew, but I would never admit it. I sat and stared into his big brown puppy dog eyes, so lost and confused. A man, but you could still see the child through the wispy brown locks, which dangled down from the mop on his head like vines from a pale stone building. No matter what he went through, or how long it took, his eyes always looked the same; where his soul lived. A powerful soul, but a lonely soul. As if he had lacked a part since the dawn of time and throughout the ages, his search never ends and he'll always ask the same question.\n" +
+    '"Where is she?"\n' +
+    'I wished I could tell him, but I could not dare risk it. Some things are far too important to juggle in the dark; some things break too easily.\n' +
+    "Several moments passed. He asked again with more force, and the sky grumbled with thunder. I didn't turn my head, but I cast my eyes up and let my mind wander in the storm. It's always storms. An endless gathering storm, and the thunder and lightning always punctuated his words, which didn't surprise me. The world bends around those who will shape it, even if they are unaware of their power. He took a step and I could hear the silver scrape against his belt loop. I met his eyes so he could see my reassurance. It gave him pause. I didn't want to hurt him, but I knew I would. It's hard to fight destiny, impossible to challenge it, but it's a task I accepted, and it brought me here.\n" +
+    "Mary and Cyrus have known each other their entire lives and have loved each other for just as long, but their own personal demons and latent fears have kept them at an arm's length.\n" +
+    "As they finally overcome their issues and find their way into each other's arms, they are unaware of the darkness, which lurks within the shadows.\n" +
+    'When that darkness latches on to Mary, Cyrus must face his greatest enemy if he is to have any hope of saving the woman he loves...\n' +
+    '...himself.\n' +
+    'Now the cruel gears of fate have begun to grind, the dark clouds have darkened the warm light of day, and the storm... is coming.',
+  publisher: '',
+  page_count: '',
+  day: '13',
+  month: '6',
+  year: '2012',
+  popular_shelves: [
+    {
+      count: '176',
+      name: 'to-read'
+    },
+    {
+      count: '10',
+      name: 'kindle'
+    },
+    {
+      count: '6',
+      name: 'fantasy'
+    },
+    {
+      count: '5',
+      name: 'paranormal'
+    },
+    {
+      count: '4',
+      name: 'currently-reading'
+    },
+    {
+      count: '4',
+      name: 'ebooks'
+    },
+    {
+      count: '3',
+      name: 'maybe'
+    },
+    {
+      count: '3',
+      name: 'kindle-freebie'
+    },
+    {
+      count: '3',
+      name: 'paranormal-romance'
+    },
+    {
+      count: '3',
+      name: 'romance'
+    },
+    {
+      count: '3',
+      name: 'freebie'
+    },
+    {
+      count: '3',
+      name: 'kindle-ebooks'
+    },
+    {
+      count: '3',
+      name: 'kindle-books'
+    },
+    {
+      count: '2',
+      name: 'series-1'
+    },
+    {
+      count: '2',
+      name: 'kindle-to-read'
+    },
+    {
+      count: '2',
+      name: 'fiction'
+    },
+    {
+      count: '2',
+      name: 'kindle-freebies'
+    },
+    {
+      count: '2',
+      name: 'kindle-cloud'
+    },
+    {
+      count: '2',
+      name: 'own-not-read'
+    },
+    {
+      count: '1',
+      name: 'series-books'
+    },
+    {
+      count: '1',
+      name: 'to-read-owned'
+    },
+    {
+      count: '1',
+      name: 'owned-shelfari'
+    },
+    {
+      count: '1',
+      name: 'books-on-my-kindle'
+    },
+    {
+      count: '1',
+      name: 'zz-250-plus-pages'
+    },
+    {
+      count: '1',
+      name: 'kindle-6'
+    },
+    {
+      count: '1',
+      name: 'ready-on-kindle'
+    },
+    {
+      count: '1',
+      name: 'pgs-200-299'
+    },
+    {
+      count: '1',
+      name: 'started'
+    },
+    {
+      count: '1',
+      name: 'books-i-own'
+    },
+    {
+      count: '1',
+      name: '200-plus-pages'
+    },
+    {
+      count: '1',
+      name: 'ya-fantasy'
+    },
+    {
+      count: '1',
+      name: 'ab'
+    },
+    {
+      count: '1',
+      name: 'supernatural-book-series'
+    },
+    {
+      count: '1',
+      name: 'unread'
+    },
+    {
+      count: '1',
+      name: '2014-tbr-challenge'
+    },
+    {
+      count: '1',
+      name: 'own-to-read'
+    },
+    {
+      count: '1',
+      name: 'ballad-of-mary-and-cyrus'
+    },
+    {
+      count: '1',
+      name: 'own-unread'
+    },
+    {
+      count: '1',
+      name: 'calibre-library'
+    },
+    {
+      count: '1',
+      name: 'owned'
+    },
+    {
+      count: '1',
+      name: 'own-but-haven-t-read'
+    },
+    {
+      count: '1',
+      name: 'angel-s-books-ab'
+    },
+    {
+      count: '1',
+      name: 'a-romance-heartbreak'
+    },
+    {
+      count: '1',
+      name: '200'
+    },
+    {
+      count: '1',
+      name: 'general-library'
+    },
+    {
+      count: '1',
+      name: 'indie-own'
+    },
+    {
+      count: '1',
+      name: 'purchased-062013'
+    },
+    {
+      count: '1',
+      name: 'freebiez'
+    },
+    {
+      count: '1',
+      name: 'indie'
+    },
+    {
+      count: '1',
+      name: 'on-kindle-not-read'
+    },
+    {
+      count: '1',
+      name: 'daddy-dark-s-baby-warrior-list'
+    },
+    {
+      count: '1',
+      name: 'kindle-not-read-yet'
+    },
+    {
+      count: '1',
+      name: 'xparanormal'
+    },
+    {
+      count: '1',
+      name: 'i-own-books'
+    },
+    {
+      count: '1',
+      name: 'e-books-kindle-hdfire'
+    },
+    {
+      count: '1',
+      name: 'to-read-free'
+    },
+    {
+      count: '1',
+      name: 'own-and-haven-t-read'
+    },
+    {
+      count: '1',
+      name: 'waiting'
+    },
+    {
+      count: '1',
+      name: 'in-queue'
+    },
+    {
+      count: '1',
+      name: 'contemporary-romance'
+    },
+    {
+      count: '1',
+      name: 'e-books'
+    },
+    {
+      count: '1',
+      name: 'next'
+    },
+    {
+      count: '1',
+      name: 'owned-kindle'
+    },
+    {
+      count: '1',
+      name: 'kindle-free-to-read'
+    },
+    {
+      count: '1',
+      name: 'vampires'
+    },
+    {
+      count: '1',
+      name: 'own-a-copy'
+    },
+    {
+      count: '1',
+      name: 'my-kindle-book-challenge-to-read'
+    },
+    {
+      count: '1',
+      name: 'werewolves-vamps-and-other-magical'
+    },
+    {
+      count: '1',
+      name: 'series-to-read'
+    },
+    {
+      count: '1',
+      name: 'my-kindle-books'
+    },
+    {
+      count: '1',
+      name: '2012-release'
+    },
+    {
+      count: '1',
+      name: 'have-and-will-read-soon'
+    },
+    {
+      count: '1',
+      name: 'pixel-of-ink'
+    },
+    {
+      count: '1',
+      name: 'kindle-to-lend'
+    },
+    {
+      count: '1',
+      name: 'owned-unread'
+    },
+    {
+      count: '1',
+      name: 'paranormal-supernatural'
+    },
+    {
+      count: '1',
+      name: 'books-i-have-edited'
+    }
+  ],
+  average_rating: '3.37',
+  ratings_count: '14',
+  text_reviews_count: '5'
+}
+{
+  _id: ObjectId('684ad2677f51bdfc1fc6db7f'),
+  book_id: '80504',
+  genres: {
+    fiction: 20,
+    'comics, graphic': 50,
+    'fantasy, paranormal': 4,
+    'mystery, thriller, crime': 2
+  }
+}
+{
+  _id: ObjectId('684ad25e7f51bdfc1fb629c0'),
+  book_id: '15722365',
+  genres: {}
+}
+{
+  _id: ObjectId('684ad2617f51bdfc1fbc5812'),
+  book_id: '24886312',
+  genres: {
+    'non-fiction': 78
+  }
+}
+{
+  _id: ObjectId('684ad2647f51bdfc1fc17d41'),
+  book_id: '18211451',
+  genres: {}
+}
+{
+  _id: ObjectId('684ad25f7f51bdfc1fb8e9b5'),
+  book_id: '1293969',
+  genres: {}
+}
+{
+  _id: ObjectId('684ad2557f51bdfc1fa651f1'),
+  book_id: '15803000',
+  genres: {
+    'young-adult': 9,
+    fiction: 19,
+    'fantasy, paranormal': 8,
+    romance: 3,
+    'mystery, thriller, crime': 1,
+    'history, historical fiction, biography': 1
+  }
+}
+{
+  _id: ObjectId('684ad2607f51bdfc1fb9f4d2'),
+  book_id: '25582925',
+  genres: {
+    'non-fiction': 50,
+    'history, historical fiction, biography': 28
+  }
+}
+{
+  _id: ObjectId('684ad25e7f51bdfc1fb729c5'),
+  book_id: '244364',
+  genres: {
+    'non-fiction': 4,
+    'fantasy, paranormal': 1
+  }
+}
+{
+  _id: ObjectId('684ad25b7f51bdfc1fafe57c'),
+  book_id: '11128006',
+  genres: {
+    fiction: 3,
+    'history, historical fiction, biography': 3
+  }
+}
+{
+  _id: ObjectId('684ad2667f51bdfc1fc47c7e'),
+  book_id: '1806720',
+  genres: {
+    fiction: 1
+  }
+}
+{
+  _id: ObjectId('684ad566cb84beee85a7152b'),
+  user_id: 'fbfd7df4ca38380034f75af7a4ae535a',
+  book_id: '9810084',
+  review_id: '8992cf63796b4c22c0f0ff9731655efe',
+  rating: 2,
+  review_text: 'Actually the Audible book Blade Runner is Do Androids Dream of Electric Sheep. Plot and story full of holes. Not Philip K Dicks best work. Not his worst either, but close. The Movie actually makes the story a must read. Without the movie, the novel alone is mediocre at best.',
+  date_added: 'Sun Oct 26 07:49:13 -0700 2014',
+  date_updated: 'Sun Nov 09 09:58:49 -0800 2014',
+  read_at: 'Sun Nov 09 09:58:49 -0800 2014',
+  started_at: 'Sun Oct 26 00:00:00 -0700 2014',
+  n_votes: 0,
+  n_comments: 0
+}
+{
+  _id: ObjectId('684ad5b0cb84beee85eb09fc'),
+  user_id: 'b3ff51f2850028079df2cf68e817ee3c',
+  book_id: '17703290',
+  review_id: '6e4155ddd2204d01e8a92c1717430c88',
+  rating: 0,
+  review_text: 'it was very good',
+  date_added: 'Fri Jun 06 00:03:36 -0700 2014',
+  date_updated: 'Sun Jan 11 13:53:18 -0800 2015',
+  read_at: 'Fri Dec 05 00:00:00 -0800 2014',
+  started_at: 'Mon Sep 29 00:00:00 -0700 2014',
+  n_votes: 0,
+  n_comments: 0
+}
+{
+  _id: ObjectId('684ad652cb84beee857e1393'),
+  user_id: '52777a5588a49969fb5313a3a612420d',
+  book_id: '15730781',
+  review_id: '24022c215b1a6b07415a7fe325912559',
+  rating: 4,
+  review_text: 'Che bella e dolce favola. \n' +
+    " Un'oretta per la lettura di una storia dove un uomo intraprendente, intransigente e intelligente che combatte l'invasione cinese nel settore tessile a Prato, non si dimentica dei suoi amici d'infanzia su, a S. Marcello Pistoiese, tra quelle montagne imponenti dove andare aventi e duro, ma la vita e piu serena. \n" +
+    ' E proprio quando si reca la, vede una casetta tutta diroccata, con il tetto coperto da teloni, cosi colorati da sembrare un arcobaleno, e un senso di pace e di calore dato da quei due comignoli, sempre fumanti, estate e inverno. \n' +
+    ' La curiosita lo assale, ma prima di recarsi la dovra attraversare i 7 ponti.. \n' +
+    ' Che dolce favolina.. \n' +
+    " Vorrei pero rivolgermi a Mauro Corona: di la verita, non l'hai scritto tu! \n" +
+    " Si, ci sono i monti e un chiaro sentimento di prevalsa della vita semplice a quella di citta, ma dov'e la tua ironia pungente sull'uomo e l'umanita? \n" +
+    ` Dov'e quell'introspezione sagace di chi non ha paura di parlare che ho trovato ne "Le voci del bosco?" \n` +
+    ' Li mi sembrava di parlare con te, potevo sentire quel tuo tono particolare di voce mentre leggevo. \n' +
+    ' Qui e tutto semplice, uno stile troppo pulito per essere il tuo, Mauro! \n' +
+    ' Comunque e stato bello leggere questo semplice libricino. \n' +
+    ' Appena chiuso mi e rimasto un sentimento a meta fra la dolcezza e la nostalgia. \n' +
+    " E come ogni favola che si rispetti c'e una morale... \n" +
+    ' Ora sta a voi scoprire quale!',
+  date_added: 'Mon Aug 20 08:44:02 -0700 2012',
+  date_updated: 'Fri Nov 16 09:05:00 -0800 2012',
+  read_at: 'Mon Sep 03 00:00:00 -0700 2012',
+  started_at: 'Mon Sep 03 00:00:00 -0700 2012',
+  n_votes: 0,
+  n_comments: 0
+}
+{
+  _id: ObjectId('684ad5edcb84beee8522fbfa'),
+  user_id: 'cd1ec43e3657332be52ea784bc8717d7',
+  book_id: '6718608',
+  review_id: '7b6c42a7742659bd2b5f34affcbea947',
+  rating: 4,
+  review_text: `When Julie Jacob's aunt dies, she is devastated and confounded: her aunt has left her entire estate to her twin sister, Janice. Julie inherits a mysterious family "heirloom" housed in a safety deposit box in Siena, Italy. Thus begins Anne Fortier's mesmerizing novel, Juliet. \n` +
+    ' Julie travels to Siena and discovers that her life has pretty much been a lie: she is not Julie Jacobs, but Giulietta Tolomei, a descendent of the fourteenth century Giulietta Tolomei. \n' +
+    ` Yep! That Giulietta, or Juliet, as Shakespeare immortalized in his play Romeo and Juliet. And guess what? There is also one Romeo Marescotti who is a descendent of the Romeo. Giulietta's quest uncovers priceless fourteenth century artifacts, devastating truths about her family, and a centuries old curse, as in "a curse on both your houses." I love the way Fortier describes the City of Siena and its very distinct seventeen neighborhoods, or contradas. We even get to visit a couple of the famous contrada museums in the novel. I have been to Italy three times, but I have never visited Siena. I am now obsessed with visiting Siena. Anne Fortier has probably done more for the tourist industry there than anyone else in years! \n` +
+    ' Fortier also does an amazing job of weaving the backstory of the fourteenth century Romeo and Giulietta with the present. I truly thought, at first, that I was not going to care as much about the backstory because I was already so familiar with it, but I was wrong. I became just as intrigued by the ill-fated lovers in the past (and actually pulling for them to have a happy ending, even though I already know that their story ends in tragedy) as I did the present-day Romeo and Giulietta. The big question in the book is this: can the curse be broken? \n' +
+    ' This well-researched book is a bright mixture of intrigue, suspense, history, and romance. My only criticism of the book is that the ending is a little flat; however, I highly recommend it.',
+  date_added: 'Sat Mar 09 15:35:27 -0800 2013',
+  date_updated: 'Sat Mar 09 15:37:42 -0800 2013',
+  read_at: 'Fri Nov 12 00:00:00 -0800 2010',
+  started_at: '',
+  n_votes: 0,
+  n_comments: 0
+}
+{
+  _id: ObjectId('684ad5e4cb84beee851a31ea'),
+  user_id: '59bda7207aa137d2e861b8144bf49f62',
+  book_id: '18050820',
+  review_id: 'b80e0e8717a2c53772d032046101e5a9',
+  rating: 0,
+  review_text: "I'm not going to rate the book because I'm not the target market. But I felt let down by the writing at times, most notably in this scene. The author is describing the first kiss that occurs on the dance floor at a local dive bar. The main character's feelings in this moment, when she kisses the man whom she's desired secretly since the age of thirteen, are compared with being drunk: \n" +
+    ` "Holly felt as if she'd imbibed not one but several very potent drinks, rather than leaving her first screwdriver untouched. She felt that light-headed, that inebriated. This was divinely delicious and she intended to savor every single second of it."`,
+  date_added: 'Sun Sep 25 00:29:52 -0700 2016',
+  date_updated: 'Mon Aug 14 00:53:01 -0700 2017',
+  read_at: 'Sun Sep 25 14:32:38 -0700 2016',
+  started_at: 'Sun Sep 25 00:00:00 -0700 2016',
+  n_votes: 0,
+  n_comments: 0
+}
+{
+  _id: ObjectId('684ad64bcb84beee85782e23'),
+  user_id: 'c59957fdd1ae1f83b076c333215597d3',
+  book_id: '7235532',
+  review_id: '74e332ea6902c1810f6dfd547606ece1',
+  rating: 4,
+  review_text: "I don't usually read ginormous epic fantasy series. Trilogies are about as much as I can take. I have occasionally read the first book in a long series for group reads, but I rarely read more than the first volume. I generally have no desire to spend 10,000+ pages in one universe, especially when the series isn't even finished. However, I have really enjoyed the books I've read by Brandon Sanderson, and I know that he's really good at getting books done in a timely manner. So, I decided to listen to the audiobook of The Way of Kings, the first of a planned 10-book series. In print, this book is over 1000 pages, so the series is everything I try to avoid. \n" +
+    " I found The Way of Kings to be quite engaging and entertaining. Despite it's length and scope, I never got lost or confused. I did find that some parts did drag and that the book strayed for too long in parts from the storylines that I was most interested in. However, it was all good. I really can't wait for the next installment. \n" +
+    " The audio production was very good as well. I would have liked more of Kate Reading's parts, but not enough of the story stuck with the characters she was reading. I really think audio is the way to go with a book of this size. It keeps you on track. At 45+ hours, I'd definitely say I got my Audible credit's worth.",
+  date_added: 'Fri Sep 17 16:14:36 -0700 2010',
+  date_updated: 'Sat Oct 30 10:10:10 -0700 2010',
+  read_at: 'Wed Oct 20 00:00:00 -0700 2010',
+  started_at: 'Fri Sep 17 00:00:00 -0700 2010',
+  n_votes: 4,
+  n_comments: 0
+}
+{
+  _id: ObjectId('684ad5e7cb84beee851d2a35'),
+  user_id: 'f070f1cc66d79485f12f9a185afb9413',
+  book_id: '21407444',
+  review_id: '2d94d5cdd1448b4cc9b6c60abcd74407',
+  rating: 0,
+  review_text: 'http://openbooksociety.com/article/bo... \n' +
+    ' By OBS reviewer Una \n' +
+    " I thoroughly enjoyed this story set in the last years of the Second World War. Eileen is an 11 year old who doesn't want to work in the fields so lies about her age to get a domestic position in Mrs. Mumson's boarding house. Mrs. Mumson is a character who speaks to her dead husband's picture and even sets a place for him at the table. Even as an 11 year old Eileen can see all the things that need to be done to get the house in order. Eileen certainly possesses a maturity that not many children would have today. She is the maid and responsible for all the housework as well as the cook. It is really humorous how she develops war time recipes from the radio program she listens to. Some of the meals go over well and others do not get great reviews but all keep within the budget of food stamps and rations. The six characters living in the house basically show society of the time with all its problems, and intolerance of a country reeling from the effects of war. \n" +
+    ` The Doctor who is dealing with a polio outbreak which has produced fear among the majority of the population and the rampant spread of communicable diseases is the first to realize that they are working Eileen too hard and that it might have consequences. An unplanned pregnancy is suspected and the "father" also a boarding house guest doesn't want to own up to it, leaving the girl to deal with the consequences of possibly losing her job and also her place at the boarding house. When one of Japanese boys who worked for Mrs. Mumson prior to the evacuation shows up unannounced he is met with hatred and intolerance by one of the guests. The book really shows the turbulence of the times. \n` +
+    ' Eileen sees and hears all of this however her shining star is Teddy who seems to have a secret life and no one knows for sure whether it is legitimate work that he does. Eileen only sees that he does nice things for her and his best asset is that he always is driving a new car. She knows that Teddy will stick up for her no matter what the problem. \n' +
+    ' The book follows Eileen during the 4 months she spends at the Boarding House and sees her start to grow up and have her first love. Boarding House Stew is a well written true story and I know I would love to be able to see the play version.',
+  date_added: 'Tue Jul 28 19:05:46 -0700 2015',
+  date_updated: 'Fri Jul 31 17:57:12 -0700 2015',
+  read_at: 'Fri Jul 31 00:00:00 -0700 2015',
+  started_at: 'Tue Jul 28 00:00:00 -0700 2015',
+  n_votes: 0,
+  n_comments: 0
+}
+{
+  _id: ObjectId('684ad5b2cb84beee85ed48c0'),
+  user_id: 'd5648a8d0b356041fd146dbf6c020ebd',
+  book_id: '17573615',
+  review_id: 'b2c323e9077effe03271710d08c372ce',
+  rating: 4,
+  review_text: 'This was a great read about the planning of a wedding in Ireland. Cara and Shane receive an invitation to a lavish wedding and by chance chatting to the bridegroom they discover how unhappy he is with all the extravagence and that they are in debt because of it. They decide that when they get married they want a nice quiet wedding with just their closest family and friends. \n' +
+    " However when they announce their holiday plans- both mothers turn into diva's- wanting to take over and organise one of the biggest weddings Ireland has ever seen! \n" +
+    ' They make their plans despite family opposition and it causes a lot of friction in every camp. There are lots of secrets being kept and astonishing proposals made. \n' +
+    ' I was rooting for them to get the perfect wedding that they wanted.',
+  date_added: 'Thu Jul 18 06:05:03 -0700 2013',
+  date_updated: 'Fri Jul 19 23:35:14 -0700 2013',
+  read_at: 'Fri Jul 19 00:00:00 -0700 2013',
+  started_at: 'Thu Jul 18 00:00:00 -0700 2013',
+  n_votes: 1,
+  n_comments: 0
+}
+{
+  _id: ObjectId('684ad648cb84beee85751057'),
+  user_id: 'f6a177eb9de2ea8bcd2e9798072dbc60',
+  book_id: '16138688',
+  review_id: '4a6f79d3460db75f27f246d0432b67d2',
+  rating: 3,
+  review_text: "The One Book One Brant event is taking place today and this year's book choice was The Painted Girls by Canadian author Cathy Marie Buchanan. My second reading of this novel only reinforced how fortunate it is to born at a time when women have ample options to look after themselves and their families independently. \n" +
+    ' This piece of historical fiction shares the tale of a poor family who struggle to pay the rent for their room after their father dies. Their mother cannot cope with her life and lives in a haze of absinthe. When she is able, she works at a laundry and otherwise leaves her daughters to look after each other. The three girls must contribute, even the youngest earning francs dancing as a "petit rat" at the Opera House. \n' +
+    ' The story focuses on the lives of the two oldest sisters. Antoinette, the oldest daughter is no longer able to dance in the ballet and unfortunately falls in love with an unseemly boy, Emile. As she tries to care for her sisters, she spends less and less time at home while she is "adored" by Emile. She sees the best in him while her sister, Marie worries about their connection and her fears are realized when Emile is jailed for a brutal crime. Antoinette is forced to learn about the true nature of her lover the hard way, spending time imprisoned with nuns but learning a new skill for her release. \n' +
+    ' Marie, the middle daughter, dances for the ballet and attracts the attention of the artist Edgar Degas, who pays her to model for him each week. He sketches, paints and ultimately completes a wax statue of her in 1881 which received much criticism. Marie has always seen herself as ugly and this is reinforced by the reviews which are cruelly read to her by her "protector", a man who has taken advantage of a young girl who needed money to support her ballet lessons and her family. \n' +
+    ' During my first read of this novel, I had not realized that the girls were based on real individuals that lived in France. This made me curious to view the actual statue named Little Dancer Age Fourteen which was central to the novel. I look forward to meeting Buchanan and gaining addition insight into this novel this afternoon. \n' +
+    ' http://ayearofbooksblog.com/2016/02/2...',
+  date_added: 'Sun Feb 28 07:05:07 -0800 2016',
+  date_updated: 'Fri May 20 14:56:23 -0700 2016',
+  read_at: 'Sun Feb 28 07:05:43 -0800 2016',
+  started_at: '',
+  n_votes: 1,
+  n_comments: 0
+}
+{
+  _id: ObjectId('684ad5cacb84beee8502fdfb'),
+  user_id: '7a576f521f185c22e02dda3a9b1fc97c',
+  book_id: '13324841',
+  review_id: '94595ac9d1e3985baf1a6bcaceef2b4e',
+  rating: 3,
+  review_text: 'This was definitely the weakest of the Giver Quartet books. It follows the story of Claire, the Birthmother of Gabriel, and her journey from the town that they grew up in to try and find her son. \n' +
+    " I loved her story in the town, how different she was because she never took the pills for the Stirrings, no Birthmothers are allowed to. So Claire felt love, and when she gave birth - she felt love for her son, and she didn't want to lose that connection. Through a somewhat unbelievable journey (after all, when Jonas stole an apple after lunch at school, the people of the town knew), Claire is able to form a bond with her son. When Jonas takes Gabriel away, Claire escapes on a boat to try and catch up with him. She is shipwrecked and loses her memory. \n" +
+    ' The town whose shore Claire washes up on takes to her immediately. As she regains her memory of her son, though, she realizes she must leave. Take us through a Rocky montage of her training, and she climbs a cliff in order to leave the town. On the top of the cliff, we meet the Trademaster who we remember from the previous book. Trademaster takes her youth, so Claire gets to see her son, but as an old woman instead of the young, vibrant woman she was. \n' +
+    " It's a good wrap up book, I guess. The loose ends (except for exactly what happened in the town after Jonas left and the people of the town who gained back things like color) were neatly wrapped up and any questions that were left from previous books, for the most part, were tied up. \n" +
+    ' I just feel a little unsatisfied.',
+  date_added: 'Tue Sep 24 06:11:24 -0700 2013',
+  date_updated: 'Tue Oct 22 10:40:44 -0700 2013',
+  read_at: 'Tue Oct 22 10:40:44 -0700 2013',
+  started_at: 'Tue Oct 15 00:00:00 -0700 2013',
+  n_votes: 0,
+  n_comments: 0
+}
+{
+  _id: ObjectId('684ad2517f51bdfc1fa086fd'),
+  series_id: '481529',
+  name: 'Very Short Introductions',
+  description: 'Very Short Introductionscan change the way you think about the things that interest you, and are the perfect introduction to subjects you previously knew nothing about. Because of this, they have proven to be extremely popular with general readers, as well as students and their lecturers.\n' +
+    'Very Short Introductionsare the perfect way to get ahead in a new subject quickly. Our expert authors combine facts, analysis, new ideas, and enthusiasm to make often challenging topics highly readable.\n' +
+    "So, where's the gap in your knowledge? ...\n" +
+    'Take a look at our list of Very Short Introductions reading guides, written by our authors. They will provoke discussions and help you to question again why you think what you think.',
+  primary_work_count: '519',
+  series_works_count: '518'
+}
+{
+  _id: ObjectId('684ad2537f51bdfc1fa388f2'),
+  series_id: '841976',
+  name: "Rockett's World",
+  description: '',
+  primary_work_count: '6',
+  series_works_count: '6'
+}
+{
+  _id: ObjectId('684ad2527f51bdfc1fa0d60b'),
+  series_id: '989524',
+  name: 'Christmas Miracles in Maternity',
+  description: "Christmas Miracles in Maternity - Hope, magic and precious new beginnings at Teddy's! Welcome to Teddy's Centre for Babies and Birth, where the brightest stars of neonatal and obstetric medicine work tirelessly to save tiny lives and deliver bundles of joy all year round--but there's never a time quite as magical as Christmas! Although the temperature might be dropping outside, unexpected surprises are heating up for these dedicated pros! And as Christmas Day draws near, secrets are revealed, hope is ignited and love takes over. Cuddle up this Christmas with the heartwarming stories of the doctors, nurses, midwives and surgeons at Teddy's in the Christmas Miracles in Maternity miniseries",
+  primary_work_count: '4',
+  series_works_count: '4'
+}
+{
+  _id: ObjectId('684ad2557f51bdfc1fa535ed'),
+  series_id: '810903',
+  name: 'Bridal Discipline',
+  description: '',
+  primary_work_count: '3',
+  series_works_count: '3'
+}
+{
+  _id: ObjectId('684ad2547f51bdfc1fa452af'),
+  series_id: '1121291',
+  name: 'Faded Skies',
+  description: '',
+  primary_work_count: '1',
+  series_works_count: '1'
+}
+{
+  _id: ObjectId('684ad2537f51bdfc1fa2e32d'),
+  series_id: '717566',
+  name: 'Gli invincibili',
+  description: '',
+  primary_work_count: '4',
+  series_works_count: '4'
+}
+{
+  _id: ObjectId('684ad2517f51bdfc1f9fa117'),
+  series_id: '164446',
+  name: 'Tawny Man',
+  description: 'This trilogy has also been published with a different numbering (each book is split into two separately numbered parts, with the exception of the first book) in Portuguese, under the name: \x01.',
+  primary_work_count: '3',
+  series_works_count: '4'
+}
+{
+  _id: ObjectId('684ad2517f51bdfc1fa06d23'),
+  series_id: '536095',
+  name: 'Sinful',
+  description: '',
+  primary_work_count: '3',
+  series_works_count: '5'
+}
+{
+  _id: ObjectId('684ad2547f51bdfc1fa493ff'),
+  series_id: '761820',
+  name: 'The Life and Times of Brian Jackson',
+  description: '',
+  primary_work_count: '1',
+  series_works_count: '1'
+}
+{
+  _id: ObjectId('684ad2527f51bdfc1fa14ee7'),
+  series_id: '551697',
+  name: 'Phoenician Series',
+  description: 'A Classic SciFi or "Social" Science Fiction saga about a human colony on the Phoenician home world in a post-apocalyptic far future.',
+  primary_work_count: '4',
+  series_works_count: '4'
+}
+{
+  _id: ObjectId('684ad23f7f51bdfc1f8540aa'),
+  original_title: '',
+  original_publication_year: '2016',
+  original_publication_month: '1',
+  original_publication_day: '8',
+  books_count: '2',
+  reviews_count: '378',
+  ratings_count: '144',
+  text_reviews_count: '38',
+  rating_dist: '5:57|4:51|3:25|2:9|1:2|total:144',
+  ratings_sum: '584'
+}
+{
+  _id: ObjectId('684ad2377f51bdfc1f7c55e7'),
+  original_title: 'Fifth Victim',
+  original_publication_year: '2011',
+  original_publication_month: '1',
+  original_publication_day: '10',
+  books_count: '24',
+  reviews_count: '923',
+  ratings_count: '550',
+  text_reviews_count: '70',
+  rating_dist: '5:221|4:224|3:85|2:15|1:5|total:550',
+  ratings_sum: '2291'
+}
+{
+  _id: ObjectId('684ad2467f51bdfc1f8ebb30'),
+  original_title: '',
+  original_publication_year: '2015',
+  original_publication_month: '2',
+  original_publication_day: '8',
+  books_count: '1',
+  reviews_count: '85',
+  ratings_count: '50',
+  text_reviews_count: '3',
+  rating_dist: '5:20|4:20|3:10|2:0|1:0|total:50',
+  ratings_sum: '210'
+}
+{
+  _id: ObjectId('684ad23f7f51bdfc1f851747'),
+  original_title: '',
+  original_publication_year: '',
+  original_publication_month: '',
+  original_publication_day: '',
+  books_count: '1',
+  reviews_count: '587',
+  ratings_count: '247',
+  text_reviews_count: '42',
+  rating_dist: '5:146|4:76|3:21|2:4|1:0|total:247',
+  ratings_sum: '1105'
+}
+{
+  _id: ObjectId('684ad23c7f51bdfc1f823e15'),
+  original_title: 'Tl`@ lbdn',
+  original_publication_year: '2007',
+  original_publication_month: '',
+  original_publication_day: '',
+  books_count: '1',
+  reviews_count: '49',
+  ratings_count: '21',
+  text_reviews_count: '2',
+  rating_dist: '5:0|4:5|3:8|2:5|1:3|total:21',
+  ratings_sum: '57'
+}
+{
+  _id: ObjectId('684ad23c7f51bdfc1f81e260'),
+  original_title: '',
+  original_publication_year: '',
+  original_publication_month: '',
+  original_publication_day: '',
+  books_count: '3',
+  reviews_count: '98',
+  ratings_count: '45',
+  text_reviews_count: '15',
+  rating_dist: '5:27|4:10|3:7|2:1|1:0|total:45',
+  ratings_sum: '198'
+}
+{
+  _id: ObjectId('684ad2427f51bdfc1f89ab26'),
+  original_title: '',
+  original_publication_year: '2012',
+  original_publication_month: '12',
+  original_publication_day: '',
+  books_count: '3',
+  reviews_count: '419',
+  ratings_count: '21',
+  text_reviews_count: '14',
+  rating_dist: '5:10|4:5|3:4|2:1|1:1|total:21',
+  ratings_sum: '85'
+}
+{
+  _id: ObjectId('684ad23a7f51bdfc1f8008df'),
+  original_title: 'Charlie Christian - The Art Of Jazz Guitar',
+  original_publication_year: '1985',
+  original_publication_month: '6',
+  original_publication_day: '1',
+  books_count: '1',
+  reviews_count: '5',
+  ratings_count: '1',
+  text_reviews_count: '1',
+  rating_dist: '5:0|4:0|3:1|2:0|1:0|total:1',
+  ratings_sum: '3'
+}
+{
+  _id: ObjectId('684ad2427f51bdfc1f897491'),
+  original_title: '',
+  original_publication_year: '2014',
+  original_publication_month: '11',
+  original_publication_day: '4',
+  books_count: '5',
+  reviews_count: '1009',
+  ratings_count: '526',
+  text_reviews_count: '63',
+  rating_dist: '5:270|4:171|3:71|2:13|1:1|total:526',
+  ratings_sum: '2274'
+}
+{
+  _id: ObjectId('684ad23c7f51bdfc1f826b48'),
+  original_title: 'Gawain: Knight of the Goddess: Restoring an Archetype',
+  original_publication_year: '1990',
+  original_publication_month: '6',
+  original_publication_day: '',
+  books_count: '4',
+  reviews_count: '71',
+  ratings_count: '22',
+  text_reviews_count: '3',
+  rating_dist: '5:6|4:7|3:4|2:4|1:1|total:22',
+  ratings_sum: '79'
+}

@@ -1,0 +1,5 @@
+db.getCollectionNames().forEach(function(collName) {
+    db.getCollection(collName).aggregate([{ $sample: { size: 10 } }]).forEach(function(doc) {
+        printjson(doc);
+    });
+});
